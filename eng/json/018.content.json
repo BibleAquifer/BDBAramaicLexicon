@@ -1,0 +1,327 @@
+[
+{
+"content_id": "BDB11321",
+"reference_id": "BDB11321",
+"version": "1.0.4",
+"title": "צְבָא",
+"media_type": "Text",
+"index_reference": "צְבָא",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6634,6633</span>]</abbr> † [<span class=\"hebrew\">צְבָא</span>] <b><abbr data-bdb=\"ABBR.663\">vb.</abbr></b> be inclined, desire, be pleased (Targum Syr.; cf. BH II. <span class=\"hebrew\">צבה</span>);—<b><abbr data-bdb=\"ABBR.491\">Pe</abbr>. 1.</b> <i>desire:</i> <i><abbr data-bdb=\"ABBR.500\">Pf.</abbr></i> 1 S. <span class=\"hebrew\">צְבִית</span> (<abbr data-bdb=\"ABBR.316\">K<sup>§</sup></abbr> 47 Beisp. 1) <i>a)</i> <abbr data-bdb=\"ABBR.450\">Nö<sup>GGA</sup></abbr>, 1884, 1019 pf. intrans.) <a href=\"https://ref.ly/Dan7:19\">Dn 7:19</a> (<abbr data-bdb=\"ABBR.380\">c.</abbr> inf.). <b>2.</b> <i>be pleased</i>, <i>will</i> (without hindrance), abs., of God: <i>Impf.</i> 3 ms. <span class=\"hebrew\">יִצְבֵּא</span> <a href=\"https://ref.ly/Dan4:14\">4:14</a>, <a href=\"https://ref.ly/Dan4:22\">4:22</a>, <a href=\"https://ref.ly/Dan4:29\">4:29</a>; <i>Inf.</i> sf. <span class=\"hebrew\">מִצְבְּיֵהּ</span> v:<a href=\"https://ref.ly/Dan4:32\">32</a> acc. to <i>his willing;</i> of <abbr data-bdb=\"ABBR.442\">Neb</abbr>.: <i>Pt. act.</i> <span class=\"hebrew\">צָבֵא</span> <a href=\"https://ref.ly/Dan5:19\">5:19</a>, <a href=\"https://ref.ly/Dan5:19\">5:19</a>, <a href=\"https://ref.ly/Dan5:19\">5:19</a>, <a href=\"https://ref.ly/Dan5:19\">5:19</a></p> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6640</span>]</abbr> † <span class=\"hebrew\">צְבוּ</span> <b>n.f. thing, anything</b> (orig. <i>purpose</i>) (Palm. <span class=\"hebrew\">צבו</span> <abbr data-bdb=\"ABBR.401\">Lzb<sup>357</sup></abbr> <abbr data-bdb=\"ABBR.558\">SAC<sup>100</sup></abbr> <abbr data-bdb=\"ABBR.116\">Cooke<sup>266</sup></abbr>, Syr. <span class=\"syriac\">ܨܒܘܬܐ</span>, all <i>thing;</i> cf. <abbr data-bdb=\"ABBR.447\">NH</abbr> <span class=\"hebrew\">חֵפֶץ</span> <i>thing</i>, from <span class=\"hebrew\">הָפֵץ</span> <i>delight in, crave</i>);—<a href=\"https://ref.ly/Dan6:18\">Dn 6:18</a>.</p></blockquote>",
+"associations": {
+"passage": [
+{
+"start_ref": "27004029",
+"start_ref_usfm": "DAN 4:29",
+"end_ref": "27004029",
+"end_ref_usfm": "DAN 4:29"
+},
+{
+"start_ref": "27005019",
+"start_ref_usfm": "DAN 5:19",
+"end_ref": "27005019",
+"end_ref_usfm": "DAN 5:19"
+},
+{
+"start_ref": "27007019",
+"start_ref_usfm": "DAN 7:19",
+"end_ref": "27007019",
+"end_ref_usfm": "DAN 7:19"
+},
+{
+"start_ref": "27006018",
+"start_ref_usfm": "DAN 6:18",
+"end_ref": "27006018",
+"end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27004022",
+"start_ref_usfm": "DAN 4:22",
+"end_ref": "27004022",
+"end_ref_usfm": "DAN 4:22"
+},
+{
+"start_ref": "27004032",
+"start_ref_usfm": "DAN 4:32",
+"end_ref": "27004032",
+"end_ref_usfm": "DAN 4:32"
+},
+{
+"start_ref": "27004014",
+"start_ref_usfm": "DAN 4:14",
+"end_ref": "27004014",
+"end_ref_usfm": "DAN 4:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB11323",
+"reference_id": "BDB11323",
+"version": "1.0.4",
+"title": "I צְבַע",
+"media_type": "Text",
+"index_reference": "i צְבַע",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6647,6648</span>]</abbr> I. [<span class=\"hebrew\">צְבַע</span>] <b><abbr data-bdb=\"ABBR.663\">vb.</abbr> dip, wet</b> (Targum Syr.; cf. BH I. <span class=\"hebrew\">צבע</span>);—<b>Pa.</b> <i>Pt. act.</i> <abbr data-bdb=\"ABBR.505\">pl.</abbr> <span class=\"hebrew\">מְצַבְּעִין</span> <a href=\"https://ref.ly/Dan4:22\">Dn 4:22</a> <i>wet</i> thee (<span class=\"hebrew\">ל</span>), + <span class=\"hebrew\">מִטַּל</span>. <b>Hithpa.</b> <i>Impf.</i> <span class=\"hebrew\">יִצְטַבּע</span> (also <span class=\"hebrew\">בַָּע</span>-), <i>be wet</i>, <abbr data-bdb=\"ABBR.380\">c.</abbr> <span class=\"hebrew\">בְּטַל</span> <a href=\"https://ref.ly/Dan4:12\">4:12</a>, <a href=\"https://ref.ly/Dan4:20\">4:20</a>, <span class=\"hebrew\">מִטַּל</span> v:<a href=\"https://ref.ly/Dan4:30\">30</a>, <a href=\"https://ref.ly/Dan5:21\">5:21</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27005021",
+"start_ref_usfm": "DAN 5:21",
+"end_ref": "27005021",
+"end_ref_usfm": "DAN 5:21"
+},
+{
+"start_ref": "27004020",
+"start_ref_usfm": "DAN 4:20",
+"end_ref": "27004020",
+"end_ref_usfm": "DAN 4:20"
+},
+{
+"start_ref": "27004022",
+"start_ref_usfm": "DAN 4:22",
+"end_ref": "27004022",
+"end_ref_usfm": "DAN 4:22"
+},
+{
+"start_ref": "27004030",
+"start_ref_usfm": "DAN 4:30",
+"end_ref": "27004030",
+"end_ref_usfm": "DAN 4:30"
+},
+{
+"start_ref": "27004012",
+"start_ref_usfm": "DAN 4:12",
+"end_ref": "27004012",
+"end_ref_usfm": "DAN 4:12"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB11324",
+"reference_id": "BDB11324",
+"version": "1.0.4",
+"title": "II צבע",
+"media_type": "Text",
+"index_reference": "ii צבע",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\">II. <span class=\"hebrew\">צבע</span> (√ of foll.; cf. BH II. <span class=\"hebrew\">צבע</span>).</p> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">677,676</span>]</abbr> † [<span class=\"hebrew\">אֶצְבַּע</span>] <b>n.f.</b> <b>1.</b> finger; <b>2.</b> toe (Targum Syr.; BH <i>id.</i>);—<abbr data-bdb=\"ABBR.505\">pl.</abbr> <b>1.</b> abs. <span class=\"hebrew\">אֶצְבְּעָן</span> <a href=\"https://ref.ly/Dan5:5\">Dn 5:5</a>. <b>2.</b> emph <span class=\"hebrew\">תָָ֯א</span> <a href=\"https://ref.ly/Dan2:41\">2:41</a>; cstr. <span class=\"hebrew\">עָ֯</span> v:<a href=\"https://ref.ly/Dan2:42\">42</a>.</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6655,6654</span>]</abbr> † <span class=\"hebrew\">צַא</span> <b>n.[m.]</b> side (very rare in Aram.; perh. Hebr., v. BH <i>id.,</i> √ <span class=\"hebrew\">צדד</span>);—cstr., <abbr data-bdb=\"ABBR.380\">c.</abbr> prep.: ´<span class=\"hebrew\">לְח</span>: <span class=\"hebrew\">עליא</span> <a href=\"https://ref.ly/Dan7:25\">Dn 7:25</a>, i.e. <i>against;</i> <span class=\"hebrew\">מַלְכוּתָא</span> ´<span class=\"hebrew\">מִצּ</span>: <a href=\"https://ref.ly/Dan6:5\">6:5</a>, i.e. <i>arising from, touching</i>.</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6656,6658,6660</span>]</abbr> ‡ † <span class=\"hebrew\">צְדָא</span> <b>n.[m.]</b> <abbr data-bdb=\"ABBR.660\">usu.</abbr> (malicious) purpose (Hebraism form BH <span class=\"hebrew\">צְדִיָּה</span>, √ I. <span class=\"hebrew\">צדה</span>);—<abbr data-bdb=\"ABBR.380\">c.</abbr> <span class=\"hebrew\">ה</span> interrog. <span class=\"hebrew\">הַצְדָּא</span> <a href=\"https://ref.ly/Dan3:14\">Dn 3:14</a>; &lt; read <span class=\"hebrew\">הַאַוְדָּא</span> <abbr data-bdb=\"ABBR.59\">Bev</abbr> <abbr data-bdb=\"ABBR.160\">Dr</abbr> <abbr data-bdb=\"ABBR.340\">Kmp</abbr>.</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6665,6663,6666</span>]</abbr> † <span class=\"hebrew\">צִדְקָה</span> <b>n.f. right doing</b> (<abbr data-bdb=\"ABBR.628\">Talm</abbr>., OAram.; v. BH <span class=\"hebrew\">צְדָקָה</span>, √ <span class=\"hebrew\">צדק</span>);—´<span class=\"hebrew\">צ</span>: <a href=\"https://ref.ly/Dan4:24\">Dn 4:24</a>.</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6676–77</span>]</abbr> † [<span class=\"hebrew\">צַוַּאר</span>] <b>n.m.</b> neck (Targum Syr.; v. BH sub I. <span class=\"hebrew\">צור</span>);—sf. <span class=\"hebrew\">צַוְּארָךְ</span> <a href=\"https://ref.ly/Dan5:16\">Dn 5:16</a>, <span class=\"hebrew\">צַוְּארֵהּ</span> v:<a href=\"https://ref.ly/Dan5:7\">7</a>, v:<a href=\"https://ref.ly/Dan5:29\">29</a>.</p></blockquote>",
+"associations": {
+"passage": [
+{
+"start_ref": "27005016",
+"start_ref_usfm": "DAN 5:16",
+"end_ref": "27005016",
+"end_ref_usfm": "DAN 5:16"
+},
+{
+"start_ref": "27007025",
+"start_ref_usfm": "DAN 7:25",
+"end_ref": "27007025",
+"end_ref_usfm": "DAN 7:25"
+},
+{
+"start_ref": "27004024",
+"start_ref_usfm": "DAN 4:24",
+"end_ref": "27004024",
+"end_ref_usfm": "DAN 4:24"
+},
+{
+"start_ref": "27003014",
+"start_ref_usfm": "DAN 3:14",
+"end_ref": "27003014",
+"end_ref_usfm": "DAN 3:14"
+},
+{
+"start_ref": "27002041",
+"start_ref_usfm": "DAN 2:41",
+"end_ref": "27002041",
+"end_ref_usfm": "DAN 2:41"
+},
+{
+"start_ref": "27005005",
+"start_ref_usfm": "DAN 5:5",
+"end_ref": "27005005",
+"end_ref_usfm": "DAN 5:5"
+},
+{
+"start_ref": "27005007",
+"start_ref_usfm": "DAN 5:7",
+"end_ref": "27005007",
+"end_ref_usfm": "DAN 5:7"
+},
+{
+"start_ref": "27005029",
+"start_ref_usfm": "DAN 5:29",
+"end_ref": "27005029",
+"end_ref_usfm": "DAN 5:29"
+},
+{
+"start_ref": "27006005",
+"start_ref_usfm": "DAN 6:5",
+"end_ref": "27006005",
+"end_ref_usfm": "DAN 6:5"
+},
+{
+"start_ref": "27002042",
+"start_ref_usfm": "DAN 2:42",
+"end_ref": "27002042",
+"end_ref_usfm": "DAN 2:42"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB11330",
+"reference_id": "BDB11330",
+"version": "1.0.4",
+"title": "צְלָא",
+"media_type": "Text",
+"index_reference": "צְלָא",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6739</span>]</abbr> † [<span class=\"hebrew\">צְלָא</span>] <b><abbr data-bdb=\"ABBR.663\">vb.</abbr> Pa.</b> pray (orig. <i>bow</i> in prayer) (Targum <i>id., bow,</i> Pa, <i>pray,</i> so Syr. <span class=\"syriac\">ܨܠܐ</span> and Pa.; <abbr data-bdb=\"ABBR.17\">As.</abbr> <i>sullû, entreat</i> (appar. not of prayer to gods <abbr data-bdb=\"ABBR.706\">Zim<sup>KAT</sup></abbr> 3. 610 f.); <abbr data-bdb=\"ABBR.454\">Ar.</abbr> <span class=\"arabic\">صَلَنا</span> <i>middle of the back</i>, <span class=\"arabic\">صلا</span> II. <i>pray</i>, Eth. <span class=\"ethiopic\">ፀለወ፡</span> <i>bow</i>, <span class=\"ethiopic\">ፀለየ፡</span> <i>pray;</i> <abbr data-bdb=\"ABBR.556\">Sab.</abbr> <span class=\"hebrew\">צלות</span> <i>shrine</i> <abbr data-bdb=\"ABBR.256\">Hom<sup>Chr125</sup></abbr>; AA 185);—<i>Pt.</i> <span class=\"hebrew\">מְצַלֵּא</span> <a href=\"https://ref.ly/Dan6:11\">Dn 6:11</a> (abs.); <abbr data-bdb=\"ABBR.505\">pl.</abbr> <span class=\"hebrew\">מְצַלַּ֫יִן</span> (<abbr data-bdb=\"ABBR.316\">K<sup>§</sup></abbr> 47a)) <a href=\"https://ref.ly/Ezra6:10\">Ezr 6:10</a> (<abbr data-bdb=\"ABBR.380\">c.</abbr> <span class=\"hebrew\">ל</span> <i>in behalf of</i>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27006011",
+"start_ref_usfm": "DAN 6:11",
+"end_ref": "27006011",
+"end_ref_usfm": "DAN 6:11"
+},
+{
+"start_ref": "15006010",
+"start_ref_usfm": "EZR 6:10",
+"end_ref": "15006010",
+"end_ref_usfm": "EZR 6:10"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "BDB11331",
+"reference_id": "BDB11331",
+"version": "1.0.4",
+"title": "צְלַח",
+"media_type": "Text",
+"index_reference": "צְלַח",
+"language": "eng",
+"review_level": "None",
+"content": "<style> body { margin: 0; color: #1d1d1b; background: #fbfaf7; font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; } .document-header { border-bottom: 2px solid #1d1d1b; margin-bottom: 28px; padding-bottom: 16px; } h1, h2, h3 { line-height: 1.2; margin: 0; } h1 { font-size: 2rem; } .bdb-entry { border-top: 1px solid #bbb4a8; padding: 26px 0 8px; } .article-header { margin-bottom: 18px; } .article-header h2 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 12px; font-size: 1.55rem; } .bdb-subentry { margin: 18px 0 24px; padding-left: 18px; border-left: 4px solid #d4c8ad; } .bdb-subentry h3 { align-items: baseline; display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.15rem; } .bdb-code { color: #6a4f1c; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.82em; } .headwords, .hebrew { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; } .section-definition, .article-definition { color: #57524a; margin: 6px 0 10px; } .entry-meta { color: #5d5a54; display: flex; flex-wrap: wrap; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; gap: 6px 14px; margin: 8px 0 10px; } .entry-meta span { white-space: nowrap; } p.p { margin: 10px 0; } .strongs-number { color: #785f28; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; } .ref { color: #245f73; } .arabic, .syriac, .samaritan, .persian { direction: rtl; unicode-bidi: isolate; } .unmapped-entries { border-top: 2px solid #8c7b61; margin-top: 36px; padding-top: 24px; } .ethiopic { font-family: \"Abyssinica SIL\", \"GFF Amharic\", serif; } .greek { font-family: \"GFS Porson\", \"Gentium Plus\", \"Times New Roman\", serif; } blockquote { margin-left: 2em; } .strongs-number { vertical-align: super; font-size: smaller; } </style> <p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6743–44</span>]</abbr> † [<span class=\"hebrew\">צְלַח</span>] <b><abbr data-bdb=\"ABBR.663\">vb.</abbr></b> prosper (v. BH II. <span class=\"hebrew\">צלח</span>);—<b>Haph.</b> <i><abbr data-bdb=\"ABBR.500\">Pf.</abbr></i> 3 ms. <span class=\"hebrew\">הַצְלַח</span> <a href=\"https://ref.ly/Dan3:30\">Dn 3:30</a>, <a href=\"https://ref.ly/Dan6:28\">6:29</a>; <i>Pt.</i> <span class=\"hebrew\">מַצְלַח</span> <a href=\"https://ref.ly/Ezra5:8\">Ezr 5:8</a>, <abbr data-bdb=\"ABBR.505\">pl.</abbr> <span class=\"hebrew\">לְחִין</span>- <a href=\"https://ref.ly/Ezra6:14\">6:14</a>;—<b>1.</b> <i>cause to prosper</i> <a href=\"https://ref.ly/Dan3:30\">Dn 3:30</a> (<abbr data-bdb=\"ABBR.380\">c.</abbr> <span class=\"hebrew\">ל</span> <abbr data-bdb=\"ABBR.498\">Pers.</abbr>). <b>2.</b> <i>shew prosperity, be prosperous</i> <a href=\"https://ref.ly/Dan6:28\">6:29</a> (of <abbr data-bdb=\"ABBR.498\">Pers.</abbr>); <i>have success</i> (in building) <a href=\"https://ref.ly/Ezra6:14\">Ezr 6:14</a>; <i>be successful</i> (of work) <a href=\"https://ref.ly/Ezra5:8\">5:8</a> (<span class=\"hebrew\">בְּיֶדְהֹם</span>).</p> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6754–55</span>]</abbr> † <span class=\"hebrew\">צְלֵם</span>:17 <b>n.m.</b>:<a href=\"https://ref.ly/Dan2:31\">Dn 2:31</a> image (v. BH <span class=\"hebrew\">צלם</span>);—abs. ´<span class=\"hebrew\">ח</span>: <a href=\"https://ref.ly/Dan2:31\">Dn 2:31</a>, <a href=\"https://ref.ly/Dan3:1\">3:1</a>; cstr. ´<span class=\"hebrew\">ח</span>: <a href=\"https://ref.ly/Dan3:19\">3:19</a>, <span class=\"hebrew\">צֶ֫לֶם</span> v:<a href=\"https://ref.ly/Dan3:5\">5</a> +; emph. <span class=\"hebrew\">צַלְמָא</span> <a href=\"https://ref.ly/Dan2:31\">2:31</a> +;—<i>image</i> <a href=\"https://ref.ly/Dan2:31\">Dn 2:31</a>, <a href=\"https://ref.ly/Dan2:31\">2:31</a>, <a href=\"https://ref.ly/Dan2:32\">2:32</a>, <a href=\"https://ref.ly/Dan2:34\">2:34</a>, <a href=\"https://ref.ly/Dan2:35\">2:35</a>, <a href=\"https://ref.ly/Dan3:1\">3:1</a> + 10 t. 3; <span class=\"hebrew\">אַנֶפּוֺהִי</span> ´<span class=\"hebrew\">ח</span>: <a href=\"https://ref.ly/Dan3:19\">3:19</a> i.e. his expression.</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6833,6853</span>]</abbr> † [<span class=\"hebrew\">צִפַּר</span>] <b>n.f.</b>:<a href=\"https://ref.ly/Dan4:18\">Dn 4:18</a> (cf. K. p. 165, Anm. 3) bird (v. BH II. <span class=\"hebrew\">צפר</span>);—<abbr data-bdb=\"ABBR.505\">pl.</abbr> abs. <span class=\"hebrew\">חִפֲּרִין</span> <a href=\"https://ref.ly/Dan4:30\">Dn 4:30</a>, emph. <span class=\"hebrew\">חִפְּרַיָּא</span> v:<a href=\"https://ref.ly/Dan4:11\">11</a>, cstr. <span class=\"hebrew\">חִפֲּרֵי</span>) v:<a href=\"https://ref.ly/Dan4:9\">9</a>, v:<a href=\"https://ref.ly/Dan4:18\">18</a>.</p></blockquote> <blockquote><p class=\"p\"><abbr>[Str<span class=\"strongs-number\">6841–42</span>]</abbr> † [<span class=\"hebrew\">צְפִיר</span>] <b>n.m. he-goat</b> (v. BH V. <span class=\"hebrew\">צפר</span>);—<abbr data-bdb=\"ABBR.505\">pl.</abbr> cstr. <span class=\"hebrew\">צְפִירֵי עִזִּין</span> <a href=\"https://ref.ly/Ezra6:17\">Ezr 6:17</a>.</p></blockquote>",
+"associations": {
+"passage": [
+{
+"start_ref": "27002031",
+"start_ref_usfm": "DAN 2:31",
+"end_ref": "27002031",
+"end_ref_usfm": "DAN 2:31"
+},
+{
+"start_ref": "15006017",
+"start_ref_usfm": "EZR 6:17",
+"end_ref": "15006017",
+"end_ref_usfm": "EZR 6:17"
+},
+{
+"start_ref": "15006014",
+"start_ref_usfm": "EZR 6:14",
+"end_ref": "15006014",
+"end_ref_usfm": "EZR 6:14"
+},
+{
+"start_ref": "27002032",
+"start_ref_usfm": "DAN 2:32",
+"end_ref": "27002032",
+"end_ref_usfm": "DAN 2:32"
+},
+{
+"start_ref": "27006028",
+"start_ref_usfm": "DAN 6:28",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27002034",
+"start_ref_usfm": "DAN 2:34",
+"end_ref": "27002034",
+"end_ref_usfm": "DAN 2:34"
+},
+{
+"start_ref": "27004018",
+"start_ref_usfm": "DAN 4:18",
+"end_ref": "27004018",
+"end_ref_usfm": "DAN 4:18"
+},
+{
+"start_ref": "27004009",
+"start_ref_usfm": "DAN 4:9",
+"end_ref": "27004009",
+"end_ref_usfm": "DAN 4:9"
+},
+{
+"start_ref": "15005008",
+"start_ref_usfm": "EZR 5:8",
+"end_ref": "15005008",
+"end_ref_usfm": "EZR 5:8"
+},
+{
+"start_ref": "27003001",
+"start_ref_usfm": "DAN 3:1",
+"end_ref": "27003001",
+"end_ref_usfm": "DAN 3:1"
+},
+{
+"start_ref": "27004030",
+"start_ref_usfm": "DAN 4:30",
+"end_ref": "27004030",
+"end_ref_usfm": "DAN 4:30"
+},
+{
+"start_ref": "27003030",
+"start_ref_usfm": "DAN 3:30",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
+},
+{
+"start_ref": "27002035",
+"start_ref_usfm": "DAN 2:35",
+"end_ref": "27002035",
+"end_ref_usfm": "DAN 2:35"
+},
+{
+"start_ref": "27003005",
+"start_ref_usfm": "DAN 3:5",
+"end_ref": "27003005",
+"end_ref_usfm": "DAN 3:5"
+},
+{
+"start_ref": "27004011",
+"start_ref_usfm": "DAN 4:11",
+"end_ref": "27004011",
+"end_ref_usfm": "DAN 4:11"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003019",
+"end_ref_usfm": "DAN 3:19"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

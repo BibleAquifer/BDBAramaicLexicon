@@ -1,0 +1,3188 @@
+{
+"resource_metadata": {
+"aquifer_type": "Dictionary",
+"resource_type": "Semantic Lexicon",
+"title": "Brown-Driver-Briggs Aramaic Lexicon",
+"aquifer_name": "Brown-Driver-Briggs Aramaic Lexicon",
+"version": "1.1.2",
+"collection_title": "Brown-Driver-Briggs Aramaic Lexicon",
+"short_name": "BDB",
+"license_info": {
+"title": "Brown-Driver-Briggs Aramaic Lexicon",
+"copyright": {
+"dates": "1906",
+"holder": {
+"name": "Clarendon Press, Oxford",
+"url": "https://creativecommons.org/public-domain/cc0/"
+},
+"statement": "This edition of the Brown-Driver-Briggs Aramaic Lexicon is licensed with a CC0 license and is in the public domain."
+},
+"licenses": [
+{
+"eng": {
+"name": "Public Domain CC0",
+"url": "https://creativecommons.org/public-domain/cc0/"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": false
+},
+"adaptation_notice": "",
+"resource_code": "BDBAramaicLexicon",
+"date_created": "2026-06-01",
+"language": "eng",
+"localizations": [],
+"order": "alphabetical",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-06-01T18:03:00.267899"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"BDBAramaicLexicon": {
+"timestamp": "2026-06-01T18:03:00.267899"
+}
+}
+},
+"name": {
+"en": "Brown-Driver-Briggs Aramaic Lexicon"
+},
+"abbreviation": {
+"en": "BDB"
+}
+},
+"languages": [
+{
+"tag": "en",
+"name": {
+"en": "English"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "peripheral",
+"flavor": {
+"name": "textAquiferAlphabetical",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/001.content.json": {
+"mimeType": "text/json",
+"size": 242669,
+"scope": {
+"א": [
+"אָב",
+"אֲבַד",
+"אבה",
+"אוה",
+"אול",
+"אֲזָא",
+"אֲזַל",
+"אזן",
+"אחד",
+"אחה",
+"אחר",
+"אִילָן",
+"אֲכַל",
+"אַל",
+"אֵל",
+"אֵלֶּה",
+"אֲלוּ",
+"אִלֵּין",
+"אִלֵּךְ",
+"אֲמַן",
+"אֲמַר",
+"אִמַּר",
+"אֲנָא",
+"אֲנָה",
+"אֲנַ֫חְנָא",
+"אִנִּין",
+"אֲנַס",
+"I אנשׁ",
+"II אנשׁ",
+"אנתה",
+"אַנְתּוּן",
+"אסר",
+"אֱסָר",
+"אַף",
+"ארה",
+"אַרְיֵה",
+"אֲרוּ",
+"I ארך",
+"II ארך",
+"אֲתָה",
+"אֲתַר"
+]
+}
+},
+"json/002.content.json": {
+"mimeType": "text/json",
+"size": 122065,
+"scope": {
+"ח": [
+"חַד",
+"חֲבַל",
+"חֲבָל",
+"חֲבוּלָא",
+"חֲבַר",
+"חוד",
+"חֲוָה",
+"חוּט",
+"חִוָּר",
+"חֲזָה",
+"חֲטָי",
+"חֲיָא",
+"חַכִּים",
+"חֲלַף",
+"חֲנַן",
+"חֲסֵן",
+"חֲצַף",
+"II חרב",
+"חֲרַךְ",
+"חֲשַׁב",
+"חֲשַׁח",
+"חשׁף",
+"חֲשַׁל",
+"חֲתַם",
+"חְֶמָא"
+]
+}
+},
+"json/003.content.json": {
+"mimeType": "text/json",
+"size": 101785,
+"scope": {
+"ב": [
+"בְּ",
+"בְּאֵשׁ",
+"בְּדַר",
+"בְּהַל",
+"בול",
+"בָּל",
+"בְּטֵל",
+"בַּ֫יִת",
+"בְּלַא",
+"בְּבָה",
+"בִּנְיָן",
+"בְּנַס",
+"בְּעָא",
+"בְּעֵל",
+"בְּקַר",
+"II בַּר",
+"בְּרַךְ",
+"בְּרַם",
+"ברר",
+"בַּר"
+]
+}
+},
+"json/004.content.json": {
+"mimeType": "text/json",
+"size": 48869,
+"scope": {
+"ג": [
+"גאה",
+"גבר",
+"גַּו",
+"גֵּרָה",
+"גְּזַר",
+"גין",
+"גְּלָא",
+"גלל",
+"גְּמַר"
+]
+}
+},
+"json/005.content.json": {
+"mimeType": "text/json",
+"size": 119486,
+"scope": {
+"ד": [
+"דְַד",
+"דָּא",
+"דֹּב",
+"דְּבַח",
+"דְּבֵק",
+"דּוּר",
+"דָּר",
+"דּוּשׁ",
+"דַּחֲוָה",
+"דְּחַל",
+"דִּי",
+"דִּין",
+"דֵּךְ",
+"דְּבַר",
+"דְּלַק",
+"דְּמָה",
+"דְּנָה",
+"דְּקַק",
+"דָּר",
+"דרע",
+"דְּתָבָר"
+]
+}
+},
+"json/006.content.json": {
+"mimeType": "text/json",
+"size": 45743,
+"scope": {
+"ז": [
+"זָהָב",
+"זְבַן",
+"זְהַר",
+"זוּד",
+"זוּן",
+"זוּע",
+"זְמַן",
+"זְמָר",
+"זַן",
+"זְעִָק",
+"זער",
+"זְקַף"
+]
+}
+},
+"json/007.content.json": {
+"mimeType": "text/json",
+"size": 69542,
+"scope": {
+"ה": [
+"הֲ",
+"הָא",
+"הֵא",
+"הַדָּבַר",
+"הַדָּם",
+"הֲדַר",
+"הֲוָא",
+"הוּא",
+"הֲלַךְ",
+"הִמּוֺ",
+"הֵן",
+"הרהר"
+]
+}
+},
+"json/008.content.json": {
+"mimeType": "text/json",
+"size": 11340,
+"scope": {
+"ו": [
+"וְ"
+]
+}
+},
+"json/009.content.json": {
+"mimeType": "text/json",
+"size": 14028,
+"scope": {
+"ט": [
+"טְאֵב",
+"טְרַד"
+]
+}
+},
+"json/010.content.json": {
+"mimeType": "text/json",
+"size": 54890,
+"scope": {
+"פ": [
+"פְעֵם",
+"פְּלַג",
+"פְּלַח",
+"פסס",
+"פְּרַס",
+"פְּרֵס",
+"פְּרַק",
+"פְּרַשׁ",
+"פְּשַׁר",
+"פְּתַח",
+"פתא"
+]
+}
+},
+"json/011.content.json": {
+"mimeType": "text/json",
+"size": 95268,
+"scope": {
+"י": [
+"יְבַל",
+"יְדָא",
+"יְדַל",
+"יְהַב",
+"יחם",
+"יְטַב",
+"יְכִל",
+"יְסַף",
+"יְעַט",
+"יָעֵט",
+"יְצַב",
+"יְקַד",
+"יְקָר",
+"יֵשׁוּעַ",
+"ישׁן",
+"יָת",
+"יְתִב"
+]
+}
+},
+"json/012.content.json": {
+"mimeType": "text/json",
+"size": 70774,
+"scope": {
+"כ": [
+"כְּ",
+"כָּה",
+"כְּהַל",
+"כִּכַּר",
+"כְּלַל",
+"כְּנַשׁ",
+"כסא",
+"כְּפַחת",
+"כרר",
+"כְּתַב"
+]
+}
+},
+"json/013.content.json": {
+"mimeType": "text/json",
+"size": 55681,
+"scope": {
+"ל": [
+"ל",
+"לָא",
+"לאך",
+"לְבַב",
+"לְבֵשׁ",
+"I לָהֵן",
+"II לָהֵן"
+]
+}
+},
+"json/014.content.json": {
+"mimeType": "text/json",
+"size": 115006,
+"scope": {
+"מ": [
+"מָא",
+"מְאָה",
+"מָה",
+"מְחָא",
+"מְטָא",
+"מְלָא",
+"מְלַח",
+"I מלך",
+"II מלך",
+"מְלַל",
+"מִלָּה",
+"מַן",
+"מִן",
+"מְנֵא",
+"מַנְדַּע",
+"מְנָה",
+"מִנְחָה"
+]
+}
+},
+"json/015.content.json": {
+"mimeType": "text/json",
+"size": 95794,
+"scope": {
+"נ": [
+"נבא",
+"נְגַד",
+"נֶ֫גֶד",
+"נ֫גַהּ",
+"נְדַב",
+"נִדְבָּךְ",
+"נְדַד",
+"נוּד",
+"נְזַק",
+"נְחֵת",
+"נְטַל",
+"נְטַר",
+"נְסַךְ",
+"נְסַךְ",
+"נְפַל",
+"נְכַּק",
+"נְצַח",
+"נְצַל",
+"נְקַשׁ",
+"נְשָא",
+"נְתַן"
+]
+}
+},
+"json/016.content.json": {
+"mimeType": "text/json",
+"size": 38298,
+"scope": {
+"ס": [
+"סְבַל",
+"סְבַר",
+"סוּף",
+"סְילק",
+"סְעַד",
+"סְפַר",
+"I סְתַר",
+"II סְתַר"
+]
+}
+},
+"json/017.content.json": {
+"mimeType": "text/json",
+"size": 150353,
+"scope": {
+"ע": [
+"עֲבַד",
+"עַד",
+"עֲדָה",
+"עַד",
+"עוֺד",
+"עלה",
+"עַל",
+"עֲלַל",
+"עִם",
+"I עֲנָה",
+"II ענה",
+"ענז",
+"עפא",
+"עֲצַב",
+"עִקַּר",
+"עֲרַב",
+"ערר",
+"עֲשַר"
+]
+}
+},
+"json/018.content.json": {
+"mimeType": "text/json",
+"size": 26090,
+"scope": {
+"צ": [
+"צְבָא",
+"I צְבַע",
+"II צבע",
+"צְלָא",
+"צְלַח"
+]
+}
+},
+"json/019.content.json": {
+"mimeType": "text/json",
+"size": 84200,
+"scope": {
+"ק": [
+"קבל",
+"קדשׁ",
+"קול",
+"קוּם",
+"קְטַל",
+"קטר",
+"קָל",
+"קְנָא",
+"קצא",
+"קְצַף",
+"קְרָא",
+"קְרֵב"
+]
+}
+},
+"json/020.content.json": {
+"mimeType": "text/json",
+"size": 79454,
+"scope": {
+"ר": [
+"ראה",
+"רבב",
+"רְבָה",
+"רבע",
+"רְגַז",
+"רְגַשׁ",
+"רוח",
+"רוּם",
+"רְחַץ",
+"רחק",
+"רְמָא",
+"רעה",
+"רְעַע",
+"רְפַס",
+"רְשַׁם"
+]
+}
+},
+"json/021.content.json": {
+"mimeType": "text/json",
+"size": 213815,
+"scope": {
+"ש": [
+"שְגָא",
+"שוּם",
+"שְטַר",
+"שִיב",
+"שְכַל",
+"שְנָא",
+"שְׁאֵל",
+"שׁבב",
+"שְׁבַךְ",
+"שְׁבַע",
+"שְׁבַק",
+"שְׁבַשׁ",
+"שְׁדַר",
+"שׁדת",
+"I שְׁוָה",
+"II שְׁוָה",
+"שׁוק",
+"שְׁחַת",
+"שׁיציא",
+"שׁכב",
+"שְׁכַח",
+"שְׁכֵן",
+"שׁלה",
+"שְׁלַח",
+"שְׁלֵט",
+"שְׁלֵם",
+"שְׁמַד",
+"שְׁמַם",
+"שְׁמַע",
+"I שׁמשׁ",
+"II שְׁמַשׁ",
+"שֵׁן",
+"שְׁנָא",
+"שׁנן",
+"שְׁפַט",
+"שַׁפִּיר",
+"שְׁפֵל",
+"שְׁפַר",
+"שְׁרָא",
+"שׁרק",
+"שֹׁ֫רֶשׁ",
+"שְׁתָה",
+"שִׁתִּין"
+]
+}
+},
+"json/022.content.json": {
+"mimeType": "text/json",
+"size": 50355,
+"scope": {
+"ת": [
+"תְּבַר",
+"תּוּב",
+"תְּוַהּ",
+"תְּלָת",
+"תַּמָּה",
+"תנא",
+"תְּוַל",
+"תְּקַן",
+"תְּקֵף"
+]
+}
+},
+"json/000.content.json": {
+"mimeType": "text/json",
+"size": 1630021
+},
+"alignments/01.alignment.json": {
+"mimeType": "text/json",
+"size": 1717706,
+"scope": {
+"GEN": []
+}
+},
+"alignments/02.alignment.json": {
+"mimeType": "text/json",
+"size": 1286186,
+"scope": {
+"EXO": []
+}
+},
+"alignments/03.alignment.json": {
+"mimeType": "text/json",
+"size": 895444,
+"scope": {
+"LEV": []
+}
+},
+"alignments/04.alignment.json": {
+"mimeType": "text/json",
+"size": 1206652,
+"scope": {
+"NUM": []
+}
+},
+"alignments/05.alignment.json": {
+"mimeType": "text/json",
+"size": 1156087,
+"scope": {
+"DEU": []
+}
+},
+"alignments/06.alignment.json": {
+"mimeType": "text/json",
+"size": 738214,
+"scope": {
+"JOS": []
+}
+},
+"alignments/07.alignment.json": {
+"mimeType": "text/json",
+"size": 747734,
+"scope": {
+"JDG": []
+}
+},
+"alignments/08.alignment.json": {
+"mimeType": "text/json",
+"size": 109486,
+"scope": {
+"RUT": []
+}
+},
+"alignments/09.alignment.json": {
+"mimeType": "text/json",
+"size": 978970,
+"scope": {
+"1SA": []
+}
+},
+"alignments/10.alignment.json": {
+"mimeType": "text/json",
+"size": 846160,
+"scope": {
+"2SA": []
+}
+},
+"alignments/11.alignment.json": {
+"mimeType": "text/json",
+"size": 1058100,
+"scope": {
+"1KI": []
+}
+},
+"alignments/12.alignment.json": {
+"mimeType": "text/json",
+"size": 947272,
+"scope": {
+"2KI": []
+}
+},
+"alignments/13.alignment.json": {
+"mimeType": "text/json",
+"size": 751926,
+"scope": {
+"1CH": []
+}
+},
+"alignments/14.alignment.json": {
+"mimeType": "text/json",
+"size": 989437,
+"scope": {
+"2CH": []
+}
+},
+"alignments/15.alignment.json": {
+"mimeType": "text/json",
+"size": 392747,
+"scope": {
+"EZR": []
+}
+},
+"alignments/16.alignment.json": {
+"mimeType": "text/json",
+"size": 418086,
+"scope": {
+"NEH": []
+}
+},
+"alignments/17.alignment.json": {
+"mimeType": "text/json",
+"size": 228046,
+"scope": {
+"EST": []
+}
+},
+"alignments/18.alignment.json": {
+"mimeType": "text/json",
+"size": 675359,
+"scope": {
+"JOB": []
+}
+},
+"alignments/19.alignment.json": {
+"mimeType": "text/json",
+"size": 1452289,
+"scope": {
+"PSA": []
+}
+},
+"alignments/20.alignment.json": {
+"mimeType": "text/json",
+"size": 399393,
+"scope": {
+"PRO": []
+}
+},
+"alignments/21.alignment.json": {
+"mimeType": "text/json",
+"size": 271464,
+"scope": {
+"ECC": []
+}
+},
+"alignments/22.alignment.json": {
+"mimeType": "text/json",
+"size": 90083,
+"scope": {
+"SNG": []
+}
+},
+"alignments/23.alignment.json": {
+"mimeType": "text/json",
+"size": 1196515,
+"scope": {
+"ISA": []
+}
+},
+"alignments/24.alignment.json": {
+"mimeType": "text/json",
+"size": 1772136,
+"scope": {
+"JER": []
+}
+},
+"alignments/25.alignment.json": {
+"mimeType": "text/json",
+"size": 123324,
+"scope": {
+"LAM": []
+}
+},
+"alignments/26.alignment.json": {
+"mimeType": "text/json",
+"size": 1470131,
+"scope": {
+"EZK": []
+}
+},
+"alignments/27.alignment.json": {
+"mimeType": "text/json",
+"size": 744968,
+"scope": {
+"DAN": []
+}
+},
+"alignments/28.alignment.json": {
+"mimeType": "text/json",
+"size": 164933,
+"scope": {
+"HOS": []
+}
+},
+"alignments/29.alignment.json": {
+"mimeType": "text/json",
+"size": 69127,
+"scope": {
+"JOL": []
+}
+},
+"alignments/30.alignment.json": {
+"mimeType": "text/json",
+"size": 149677,
+"scope": {
+"AMO": []
+}
+},
+"alignments/31.alignment.json": {
+"mimeType": "text/json",
+"size": 20888,
+"scope": {
+"OBA": []
+}
+},
+"alignments/32.alignment.json": {
+"mimeType": "text/json",
+"size": 54943,
+"scope": {
+"JON": []
+}
+},
+"alignments/33.alignment.json": {
+"mimeType": "text/json",
+"size": 101076,
+"scope": {
+"MIC": []
+}
+},
+"alignments/34.alignment.json": {
+"mimeType": "text/json",
+"size": 29554,
+"scope": {
+"NAM": []
+}
+},
+"alignments/35.alignment.json": {
+"mimeType": "text/json",
+"size": 44800,
+"scope": {
+"HAB": []
+}
+},
+"alignments/36.alignment.json": {
+"mimeType": "text/json",
+"size": 56221,
+"scope": {
+"ZEP": []
+}
+},
+"alignments/37.alignment.json": {
+"mimeType": "text/json",
+"size": 45144,
+"scope": {
+"HAG": []
+}
+},
+"alignments/38.alignment.json": {
+"mimeType": "text/json",
+"size": 264708,
+"scope": {
+"ZEC": []
+}
+},
+"alignments/39.alignment.json": {
+"mimeType": "text/json",
+"size": 71636,
+"scope": {
+"MAL": []
+}
+},
+"md/000.content.md": {
+"mimeType": "text/markdown",
+"size": 84313
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 54374
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 24751
+},
+"md/003.content.md": {
+"mimeType": "text/markdown",
+"size": 21591
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 10681
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 27648
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 7669
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 16144
+},
+"md/008.content.md": {
+"mimeType": "text/markdown",
+"size": 3547
+},
+"md/009.content.md": {
+"mimeType": "text/markdown",
+"size": 3461
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 11823
+},
+"md/011.content.md": {
+"mimeType": "text/markdown",
+"size": 21513
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 17625
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 14253
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 27626
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 19404
+},
+"md/016.content.md": {
+"mimeType": "text/markdown",
+"size": 8072
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 39865
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 5918
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 21655
+},
+"md/020.content.md": {
+"mimeType": "text/markdown",
+"size": 17433
+},
+"md/021.content.md": {
+"mimeType": "text/markdown",
+"size": 45064
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 11531
+},
+"docx/000.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 75927
+},
+"docx/001.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 70080
+},
+"docx/002.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 54366
+},
+"docx/003.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52567
+},
+"docx/004.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47536
+},
+"docx/005.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 55930
+},
+"docx/006.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46221
+},
+"docx/007.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50519
+},
+"docx/008.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43532
+},
+"docx/009.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43979
+},
+"docx/010.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48120
+},
+"docx/011.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51988
+},
+"docx/012.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51474
+},
+"docx/013.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48976
+},
+"docx/014.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 55105
+},
+"docx/015.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52159
+},
+"docx/016.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46588
+},
+"docx/017.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 61274
+},
+"docx/018.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45261
+},
+"docx/019.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52675
+},
+"docx/020.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50215
+},
+"docx/021.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 63349
+},
+"docx/022.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48188
+},
+"pdf/000.content.pdf": {
+"mimeType": "application/pdf",
+"size": 905851
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 619800
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 315125
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 289006
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 160406
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 364868
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 131816
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 222489
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 68039
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 89728
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 178415
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 284947
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 246283
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 210210
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 352123
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 250804
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 140539
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 480021
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 122262
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 301354
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 246534
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 529814
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 166504
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/public-domain/cc0/"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Brown-Driver-Briggs Aramaic Lexicon © 1906 Clarendon Press, Oxford.</p>",
+"mimetype": "text/html",
+"lang": "en"
+}
+]
+}
+},
+"article_metadata": {
+"BDB10678": {
+"content_id": "BDB10678",
+"reference_id": "BDB10678",
+"index_reference": "אָב",
+"localizations": {}
+},
+"BDB10680": {
+"content_id": "BDB10680",
+"reference_id": "BDB10680",
+"index_reference": "אֲבַד",
+"localizations": {}
+},
+"BDB10681": {
+"content_id": "BDB10681",
+"reference_id": "BDB10681",
+"index_reference": "אבה",
+"localizations": {}
+},
+"BDB10691": {
+"content_id": "BDB10691",
+"reference_id": "BDB10691",
+"index_reference": "אוה",
+"localizations": {}
+},
+"BDB10693": {
+"content_id": "BDB10693",
+"reference_id": "BDB10693",
+"index_reference": "אול",
+"localizations": {}
+},
+"BDB10695": {
+"content_id": "BDB10695",
+"reference_id": "BDB10695",
+"index_reference": "אֲזָא",
+"localizations": {}
+},
+"BDB10697": {
+"content_id": "BDB10697",
+"reference_id": "BDB10697",
+"index_reference": "אֲזַל",
+"localizations": {}
+},
+"BDB10698": {
+"content_id": "BDB10698",
+"reference_id": "BDB10698",
+"index_reference": "אזן",
+"localizations": {}
+},
+"BDB10700": {
+"content_id": "BDB10700",
+"reference_id": "BDB10700",
+"index_reference": "אחד",
+"localizations": {}
+},
+"BDB10701": {
+"content_id": "BDB10701",
+"reference_id": "BDB10701",
+"index_reference": "חַד",
+"localizations": {}
+},
+"BDB10702": {
+"content_id": "BDB10702",
+"reference_id": "BDB10702",
+"index_reference": "אחה",
+"localizations": {}
+},
+"BDB10706": {
+"content_id": "BDB10706",
+"reference_id": "BDB10706",
+"index_reference": "אחר",
+"localizations": {}
+},
+"BDB10712": {
+"content_id": "BDB10712",
+"reference_id": "BDB10712",
+"index_reference": "אִילָן",
+"localizations": {}
+},
+"BDB10715": {
+"content_id": "BDB10715",
+"reference_id": "BDB10715",
+"index_reference": "אֲכַל",
+"localizations": {}
+},
+"BDB10716": {
+"content_id": "BDB10716",
+"reference_id": "BDB10716",
+"index_reference": "אַל",
+"localizations": {}
+},
+"BDB10717": {
+"content_id": "BDB10717",
+"reference_id": "BDB10717",
+"index_reference": "אֵל",
+"localizations": {}
+},
+"BDB10719": {
+"content_id": "BDB10719",
+"reference_id": "BDB10719",
+"index_reference": "אֵלֶּה",
+"localizations": {}
+},
+"BDB10720": {
+"content_id": "BDB10720",
+"reference_id": "BDB10720",
+"index_reference": "אֲלוּ",
+"localizations": {}
+},
+"BDB10721": {
+"content_id": "BDB10721",
+"reference_id": "BDB10721",
+"index_reference": "אִלֵּין",
+"localizations": {}
+},
+"BDB10722": {
+"content_id": "BDB10722",
+"reference_id": "BDB10722",
+"index_reference": "אִלֵּךְ",
+"localizations": {}
+},
+"BDB10726": {
+"content_id": "BDB10726",
+"reference_id": "BDB10726",
+"index_reference": "אֲמַן",
+"localizations": {}
+},
+"BDB10727": {
+"content_id": "BDB10727",
+"reference_id": "BDB10727",
+"index_reference": "אֲמַר",
+"localizations": {}
+},
+"BDB10729": {
+"content_id": "BDB10729",
+"reference_id": "BDB10729",
+"index_reference": "אִמַּר",
+"localizations": {}
+},
+"BDB10731": {
+"content_id": "BDB10731",
+"reference_id": "BDB10731",
+"index_reference": "אֲנָא",
+"localizations": {}
+},
+"BDB10732": {
+"content_id": "BDB10732",
+"reference_id": "BDB10732",
+"index_reference": "אֲנָה",
+"localizations": {}
+},
+"BDB10734": {
+"content_id": "BDB10734",
+"reference_id": "BDB10734",
+"index_reference": "אֲנַ֫חְנָא",
+"localizations": {}
+},
+"BDB10735": {
+"content_id": "BDB10735",
+"reference_id": "BDB10735",
+"index_reference": "אִנִּין",
+"localizations": {}
+},
+"BDB10736": {
+"content_id": "BDB10736",
+"reference_id": "BDB10736",
+"index_reference": "אֲנַס",
+"localizations": {}
+},
+"BDB10738": {
+"content_id": "BDB10738",
+"reference_id": "BDB10738",
+"index_reference": "i אנשׁ",
+"localizations": {}
+},
+"BDB10740": {
+"content_id": "BDB10740",
+"reference_id": "BDB10740",
+"index_reference": "ii אנשׁ",
+"localizations": {}
+},
+"BDB10742": {
+"content_id": "BDB10742",
+"reference_id": "BDB10742",
+"index_reference": "אנתה",
+"localizations": {}
+},
+"BDB10743": {
+"content_id": "BDB10743",
+"reference_id": "BDB10743",
+"index_reference": "אַנְתּוּן",
+"localizations": {}
+},
+"BDB10746": {
+"content_id": "BDB10746",
+"reference_id": "BDB10746",
+"index_reference": "אסר",
+"localizations": {}
+},
+"BDB10748": {
+"content_id": "BDB10748",
+"reference_id": "BDB10748",
+"index_reference": "אֱסָר",
+"localizations": {}
+},
+"BDB10750": {
+"content_id": "BDB10750",
+"reference_id": "BDB10750",
+"index_reference": "אַף",
+"localizations": {}
+},
+"BDB10757": {
+"content_id": "BDB10757",
+"reference_id": "BDB10757",
+"index_reference": "ארה",
+"localizations": {}
+},
+"BDB10758": {
+"content_id": "BDB10758",
+"reference_id": "BDB10758",
+"index_reference": "אַרְיֵה",
+"localizations": {}
+},
+"BDB10759": {
+"content_id": "BDB10759",
+"reference_id": "BDB10759",
+"index_reference": "אֲרוּ",
+"localizations": {}
+},
+"BDB10763": {
+"content_id": "BDB10763",
+"reference_id": "BDB10763",
+"index_reference": "i ארך",
+"localizations": {}
+},
+"BDB10765": {
+"content_id": "BDB10765",
+"reference_id": "BDB10765",
+"index_reference": "ii ארך",
+"localizations": {}
+},
+"BDB10779": {
+"content_id": "BDB10779",
+"reference_id": "BDB10779",
+"index_reference": "אֲתָה",
+"localizations": {}
+},
+"BDB10783": {
+"content_id": "BDB10783",
+"reference_id": "BDB10783",
+"index_reference": "אֲתַר",
+"localizations": {}
+},
+"BDB10785": {
+"content_id": "BDB10785",
+"reference_id": "BDB10785",
+"index_reference": "בְּ",
+"localizations": {}
+},
+"BDB10786": {
+"content_id": "BDB10786",
+"reference_id": "BDB10786",
+"index_reference": "בְּאֵשׁ",
+"localizations": {}
+},
+"BDB10791": {
+"content_id": "BDB10791",
+"reference_id": "BDB10791",
+"index_reference": "בְּדַר",
+"localizations": {}
+},
+"BDB10792": {
+"content_id": "BDB10792",
+"reference_id": "BDB10792",
+"index_reference": "בְּהַל",
+"localizations": {}
+},
+"BDB10794": {
+"content_id": "BDB10794",
+"reference_id": "BDB10794",
+"index_reference": "בול",
+"localizations": {}
+},
+"BDB10795": {
+"content_id": "BDB10795",
+"reference_id": "BDB10795",
+"index_reference": "בָּל",
+"localizations": {}
+},
+"BDB10796": {
+"content_id": "BDB10796",
+"reference_id": "BDB10796",
+"index_reference": "בְּטֵל",
+"localizations": {}
+},
+"BDB10800": {
+"content_id": "BDB10800",
+"reference_id": "BDB10800",
+"index_reference": "בַּ֫יִת",
+"localizations": {}
+},
+"BDB10803": {
+"content_id": "BDB10803",
+"reference_id": "BDB10803",
+"index_reference": "בְּלַא",
+"localizations": {}
+},
+"BDB10807": {
+"content_id": "BDB10807",
+"reference_id": "BDB10807",
+"index_reference": "בְּבָה",
+"localizations": {}
+},
+"BDB10808": {
+"content_id": "BDB10808",
+"reference_id": "BDB10808",
+"index_reference": "בִּנְיָן",
+"localizations": {}
+},
+"BDB10809": {
+"content_id": "BDB10809",
+"reference_id": "BDB10809",
+"index_reference": "בְּנַס",
+"localizations": {}
+},
+"BDB10810": {
+"content_id": "BDB10810",
+"reference_id": "BDB10810",
+"index_reference": "בְּעָא",
+"localizations": {}
+},
+"BDB10813": {
+"content_id": "BDB10813",
+"reference_id": "BDB10813",
+"index_reference": "בְּעֵל",
+"localizations": {}
+},
+"BDB10815": {
+"content_id": "BDB10815",
+"reference_id": "BDB10815",
+"index_reference": "בְּקַר",
+"localizations": {}
+},
+"BDB10817": {
+"content_id": "BDB10817",
+"reference_id": "BDB10817",
+"index_reference": "ii בַּר",
+"localizations": {}
+},
+"BDB10818": {
+"content_id": "BDB10818",
+"reference_id": "BDB10818",
+"index_reference": "בְּרַךְ",
+"localizations": {}
+},
+"BDB10821": {
+"content_id": "BDB10821",
+"reference_id": "BDB10821",
+"index_reference": "בְּרַם",
+"localizations": {}
+},
+"BDB10822": {
+"content_id": "BDB10822",
+"reference_id": "BDB10822",
+"index_reference": "ברר",
+"localizations": {}
+},
+"BDB10823": {
+"content_id": "BDB10823",
+"reference_id": "BDB10823",
+"index_reference": "בַּר",
+"localizations": {}
+},
+"BDB10828": {
+"content_id": "BDB10828",
+"reference_id": "BDB10828",
+"index_reference": "גאה",
+"localizations": {}
+},
+"BDB10832": {
+"content_id": "BDB10832",
+"reference_id": "BDB10832",
+"index_reference": "גבר",
+"localizations": {}
+},
+"BDB10837": {
+"content_id": "BDB10837",
+"reference_id": "BDB10837",
+"index_reference": "דְַד",
+"localizations": {}
+},
+"BDB10838": {
+"content_id": "BDB10838",
+"reference_id": "BDB10838",
+"index_reference": "גַּו",
+"localizations": {}
+},
+"BDB10839": {
+"content_id": "BDB10839",
+"reference_id": "BDB10839",
+"index_reference": "גֵּרָה",
+"localizations": {}
+},
+"BDB10841": {
+"content_id": "BDB10841",
+"reference_id": "BDB10841",
+"index_reference": "גְּזַר",
+"localizations": {}
+},
+"BDB10843": {
+"content_id": "BDB10843",
+"reference_id": "BDB10843",
+"index_reference": "גין",
+"localizations": {}
+},
+"BDB10846": {
+"content_id": "BDB10846",
+"reference_id": "BDB10846",
+"index_reference": "גְּלָא",
+"localizations": {}
+},
+"BDB10848": {
+"content_id": "BDB10848",
+"reference_id": "BDB10848",
+"index_reference": "גלל",
+"localizations": {}
+},
+"BDB10852": {
+"content_id": "BDB10852",
+"reference_id": "BDB10852",
+"index_reference": "גְּמַר",
+"localizations": {}
+},
+"BDB10858": {
+"content_id": "BDB10858",
+"reference_id": "BDB10858",
+"index_reference": "דָּא",
+"localizations": {}
+},
+"BDB10859": {
+"content_id": "BDB10859",
+"reference_id": "BDB10859",
+"index_reference": "דֹּב",
+"localizations": {}
+},
+"BDB10860": {
+"content_id": "BDB10860",
+"reference_id": "BDB10860",
+"index_reference": "דְּבַח",
+"localizations": {}
+},
+"BDB10863": {
+"content_id": "BDB10863",
+"reference_id": "BDB10863",
+"index_reference": "דְּבֵק",
+"localizations": {}
+},
+"BDB10865": {
+"content_id": "BDB10865",
+"reference_id": "BDB10865",
+"index_reference": "זָהָב",
+"localizations": {}
+},
+"BDB10867": {
+"content_id": "BDB10867",
+"reference_id": "BDB10867",
+"index_reference": "דּוּר",
+"localizations": {}
+},
+"BDB10868": {
+"content_id": "BDB10868",
+"reference_id": "BDB10868",
+"index_reference": "דָּר",
+"localizations": {}
+},
+"BDB10873": {
+"content_id": "BDB10873",
+"reference_id": "BDB10873",
+"index_reference": "דּוּשׁ",
+"localizations": {}
+},
+"BDB10874": {
+"content_id": "BDB10874",
+"reference_id": "BDB10874",
+"index_reference": "דַּחֲוָה",
+"localizations": {}
+},
+"BDB10875": {
+"content_id": "BDB10875",
+"reference_id": "BDB10875",
+"index_reference": "דְּחַל",
+"localizations": {}
+},
+"BDB10876": {
+"content_id": "BDB10876",
+"reference_id": "BDB10876",
+"index_reference": "דִּי",
+"localizations": {}
+},
+"BDB10877": {
+"content_id": "BDB10877",
+"reference_id": "BDB10877",
+"index_reference": "דִּין",
+"localizations": {}
+},
+"BDB10883": {
+"content_id": "BDB10883",
+"reference_id": "BDB10883",
+"index_reference": "דֵּךְ",
+"localizations": {}
+},
+"BDB10885": {
+"content_id": "BDB10885",
+"reference_id": "BDB10885",
+"index_reference": "דְּבַר",
+"localizations": {}
+},
+"BDB10888": {
+"content_id": "BDB10888",
+"reference_id": "BDB10888",
+"index_reference": "דְּלַק",
+"localizations": {}
+},
+"BDB10889": {
+"content_id": "BDB10889",
+"reference_id": "BDB10889",
+"index_reference": "דְּמָה",
+"localizations": {}
+},
+"BDB10890": {
+"content_id": "BDB10890",
+"reference_id": "BDB10890",
+"index_reference": "דְּנָה",
+"localizations": {}
+},
+"BDB10891": {
+"content_id": "BDB10891",
+"reference_id": "BDB10891",
+"index_reference": "דְּקַק",
+"localizations": {}
+},
+"BDB10892": {
+"content_id": "BDB10892",
+"reference_id": "BDB10892",
+"index_reference": "דָּר",
+"localizations": {}
+},
+"BDB10894": {
+"content_id": "BDB10894",
+"reference_id": "BDB10894",
+"index_reference": "דרע",
+"localizations": {}
+},
+"BDB10899": {
+"content_id": "BDB10899",
+"reference_id": "BDB10899",
+"index_reference": "דְּתָבָר",
+"localizations": {}
+},
+"BDB10901": {
+"content_id": "BDB10901",
+"reference_id": "BDB10901",
+"index_reference": "הֲ",
+"localizations": {}
+},
+"BDB10902": {
+"content_id": "BDB10902",
+"reference_id": "BDB10902",
+"index_reference": "הָא",
+"localizations": {}
+},
+"BDB10903": {
+"content_id": "BDB10903",
+"reference_id": "BDB10903",
+"index_reference": "הֵא",
+"localizations": {}
+},
+"BDB10904": {
+"content_id": "BDB10904",
+"reference_id": "BDB10904",
+"index_reference": "הַדָּבַר",
+"localizations": {}
+},
+"BDB10905": {
+"content_id": "BDB10905",
+"reference_id": "BDB10905",
+"index_reference": "הַדָּם",
+"localizations": {}
+},
+"BDB10906": {
+"content_id": "BDB10906",
+"reference_id": "BDB10906",
+"index_reference": "הֲדַר",
+"localizations": {}
+},
+"BDB10908": {
+"content_id": "BDB10908",
+"reference_id": "BDB10908",
+"index_reference": "הֲוָא",
+"localizations": {}
+},
+"BDB10909": {
+"content_id": "BDB10909",
+"reference_id": "BDB10909",
+"index_reference": "הוּא",
+"localizations": {}
+},
+"BDB10911": {
+"content_id": "BDB10911",
+"reference_id": "BDB10911",
+"index_reference": "הֲלַךְ",
+"localizations": {}
+},
+"BDB10913": {
+"content_id": "BDB10913",
+"reference_id": "BDB10913",
+"index_reference": "הִמּוֺ",
+"localizations": {}
+},
+"BDB10915": {
+"content_id": "BDB10915",
+"reference_id": "BDB10915",
+"index_reference": "הֵן",
+"localizations": {}
+},
+"BDB10917": {
+"content_id": "BDB10917",
+"reference_id": "BDB10917",
+"index_reference": "הרהר",
+"localizations": {}
+},
+"BDB10920": {
+"content_id": "BDB10920",
+"reference_id": "BDB10920",
+"index_reference": "וְ",
+"localizations": {}
+},
+"BDB10922": {
+"content_id": "BDB10922",
+"reference_id": "BDB10922",
+"index_reference": "זְבַן",
+"localizations": {}
+},
+"BDB10923": {
+"content_id": "BDB10923",
+"reference_id": "BDB10923",
+"index_reference": "זְהַר",
+"localizations": {}
+},
+"BDB10924": {
+"content_id": "BDB10924",
+"reference_id": "BDB10924",
+"index_reference": "זוּד",
+"localizations": {}
+},
+"BDB10925": {
+"content_id": "BDB10925",
+"reference_id": "BDB10925",
+"index_reference": "זוּן",
+"localizations": {}
+},
+"BDB10927": {
+"content_id": "BDB10927",
+"reference_id": "BDB10927",
+"index_reference": "זוּע",
+"localizations": {}
+},
+"BDB10931": {
+"content_id": "BDB10931",
+"reference_id": "BDB10931",
+"index_reference": "זְמַן",
+"localizations": {}
+},
+"BDB10933": {
+"content_id": "BDB10933",
+"reference_id": "BDB10933",
+"index_reference": "זְמָר",
+"localizations": {}
+},
+"BDB10935": {
+"content_id": "BDB10935",
+"reference_id": "BDB10935",
+"index_reference": "זַן",
+"localizations": {}
+},
+"BDB10936": {
+"content_id": "BDB10936",
+"reference_id": "BDB10936",
+"index_reference": "זְעִָק",
+"localizations": {}
+},
+"BDB10937": {
+"content_id": "BDB10937",
+"reference_id": "BDB10937",
+"index_reference": "זער",
+"localizations": {}
+},
+"BDB10939": {
+"content_id": "BDB10939",
+"reference_id": "BDB10939",
+"index_reference": "זְקַף",
+"localizations": {}
+},
+"BDB10943": {
+"content_id": "BDB10943",
+"reference_id": "BDB10943",
+"index_reference": "חֲבַל",
+"localizations": {}
+},
+"BDB10944": {
+"content_id": "BDB10944",
+"reference_id": "BDB10944",
+"index_reference": "חֲבָל",
+"localizations": {}
+},
+"BDB10945": {
+"content_id": "BDB10945",
+"reference_id": "BDB10945",
+"index_reference": "חֲבוּלָא",
+"localizations": {}
+},
+"BDB10946": {
+"content_id": "BDB10946",
+"reference_id": "BDB10946",
+"index_reference": "חֲבַר",
+"localizations": {}
+},
+"BDB10953": {
+"content_id": "BDB10953",
+"reference_id": "BDB10953",
+"index_reference": "חוד",
+"localizations": {}
+},
+"BDB10955": {
+"content_id": "BDB10955",
+"reference_id": "BDB10955",
+"index_reference": "חֲוָה",
+"localizations": {}
+},
+"BDB10957": {
+"content_id": "BDB10957",
+"reference_id": "BDB10957",
+"index_reference": "חוּט",
+"localizations": {}
+},
+"BDB10958": {
+"content_id": "BDB10958",
+"reference_id": "BDB10958",
+"index_reference": "חִוָּר",
+"localizations": {}
+},
+"BDB10959": {
+"content_id": "BDB10959",
+"reference_id": "BDB10959",
+"index_reference": "חֲזָה",
+"localizations": {}
+},
+"BDB10962": {
+"content_id": "BDB10962",
+"reference_id": "BDB10962",
+"index_reference": "חֲטָי",
+"localizations": {}
+},
+"BDB10964": {
+"content_id": "BDB10964",
+"reference_id": "BDB10964",
+"index_reference": "חֲיָא",
+"localizations": {}
+},
+"BDB10968": {
+"content_id": "BDB10968",
+"reference_id": "BDB10968",
+"index_reference": "חַכִּים",
+"localizations": {}
+},
+"BDB10971": {
+"content_id": "BDB10971",
+"reference_id": "BDB10971",
+"index_reference": "חֲלַף",
+"localizations": {}
+},
+"BDB10978": {
+"content_id": "BDB10978",
+"reference_id": "BDB10978",
+"index_reference": "חֲנַן",
+"localizations": {}
+},
+"BDB10980": {
+"content_id": "BDB10980",
+"reference_id": "BDB10980",
+"index_reference": "חֲסֵן",
+"localizations": {}
+},
+"BDB10984": {
+"content_id": "BDB10984",
+"reference_id": "BDB10984",
+"index_reference": "חֲצַף",
+"localizations": {}
+},
+"BDB10985": {
+"content_id": "BDB10985",
+"reference_id": "BDB10985",
+"index_reference": "ii חרב",
+"localizations": {}
+},
+"BDB10987": {
+"content_id": "BDB10987",
+"reference_id": "BDB10987",
+"index_reference": "חֲרַךְ",
+"localizations": {}
+},
+"BDB10989": {
+"content_id": "BDB10989",
+"reference_id": "BDB10989",
+"index_reference": "חֲשַׁב",
+"localizations": {}
+},
+"BDB10990": {
+"content_id": "BDB10990",
+"reference_id": "BDB10990",
+"index_reference": "חֲשַׁח",
+"localizations": {}
+},
+"BDB10993": {
+"content_id": "BDB10993",
+"reference_id": "BDB10993",
+"index_reference": "חשׁף",
+"localizations": {}
+},
+"BDB10995": {
+"content_id": "BDB10995",
+"reference_id": "BDB10995",
+"index_reference": "חֲשַׁל",
+"localizations": {}
+},
+"BDB10996": {
+"content_id": "BDB10996",
+"reference_id": "BDB10996",
+"index_reference": "חֲתַם",
+"localizations": {}
+},
+"BDB10997": {
+"content_id": "BDB10997",
+"reference_id": "BDB10997",
+"index_reference": "טְאֵב",
+"localizations": {}
+},
+"BDB11006": {
+"content_id": "BDB11006",
+"reference_id": "BDB11006",
+"index_reference": "פְעֵם",
+"localizations": {}
+},
+"BDB11008": {
+"content_id": "BDB11008",
+"reference_id": "BDB11008",
+"index_reference": "טְרַד",
+"localizations": {}
+},
+"BDB11010": {
+"content_id": "BDB11010",
+"reference_id": "BDB11010",
+"index_reference": "יְבַל",
+"localizations": {}
+},
+"BDB11014": {
+"content_id": "BDB11014",
+"reference_id": "BDB11014",
+"index_reference": "יְדָא",
+"localizations": {}
+},
+"BDB11015": {
+"content_id": "BDB11015",
+"reference_id": "BDB11015",
+"index_reference": "יְדַל",
+"localizations": {}
+},
+"BDB11017": {
+"content_id": "BDB11017",
+"reference_id": "BDB11017",
+"index_reference": "יְהַב",
+"localizations": {}
+},
+"BDB11023": {
+"content_id": "BDB11023",
+"reference_id": "BDB11023",
+"index_reference": "יחם",
+"localizations": {}
+},
+"BDB11024": {
+"content_id": "BDB11024",
+"reference_id": "BDB11024",
+"index_reference": "חְֶמָא",
+"localizations": {}
+},
+"BDB11025": {
+"content_id": "BDB11025",
+"reference_id": "BDB11025",
+"index_reference": "יְטַב",
+"localizations": {}
+},
+"BDB11026": {
+"content_id": "BDB11026",
+"reference_id": "BDB11026",
+"index_reference": "יְכִל",
+"localizations": {}
+},
+"BDB11028": {
+"content_id": "BDB11028",
+"reference_id": "BDB11028",
+"index_reference": "יְסַף",
+"localizations": {}
+},
+"BDB11029": {
+"content_id": "BDB11029",
+"reference_id": "BDB11029",
+"index_reference": "יְעַט",
+"localizations": {}
+},
+"BDB11030": {
+"content_id": "BDB11030",
+"reference_id": "BDB11030",
+"index_reference": "יָעֵט",
+"localizations": {}
+},
+"BDB11033": {
+"content_id": "BDB11033",
+"reference_id": "BDB11033",
+"index_reference": "יְצַב",
+"localizations": {}
+},
+"BDB11035": {
+"content_id": "BDB11035",
+"reference_id": "BDB11035",
+"index_reference": "יְקַד",
+"localizations": {}
+},
+"BDB11037": {
+"content_id": "BDB11037",
+"reference_id": "BDB11037",
+"index_reference": "יְקָר",
+"localizations": {}
+},
+"BDB11043": {
+"content_id": "BDB11043",
+"reference_id": "BDB11043",
+"index_reference": "יֵשׁוּעַ",
+"localizations": {}
+},
+"BDB11044": {
+"content_id": "BDB11044",
+"reference_id": "BDB11044",
+"index_reference": "ישׁן",
+"localizations": {}
+},
+"BDB11046": {
+"content_id": "BDB11046",
+"reference_id": "BDB11046",
+"index_reference": "יָת",
+"localizations": {}
+},
+"BDB11047": {
+"content_id": "BDB11047",
+"reference_id": "BDB11047",
+"index_reference": "יְתִב",
+"localizations": {}
+},
+"BDB11049": {
+"content_id": "BDB11049",
+"reference_id": "BDB11049",
+"index_reference": "כְּ",
+"localizations": {}
+},
+"BDB11052": {
+"content_id": "BDB11052",
+"reference_id": "BDB11052",
+"index_reference": "כָּה",
+"localizations": {}
+},
+"BDB11053": {
+"content_id": "BDB11053",
+"reference_id": "BDB11053",
+"index_reference": "כְּהַל",
+"localizations": {}
+},
+"BDB11058": {
+"content_id": "BDB11058",
+"reference_id": "BDB11058",
+"index_reference": "כִּכַּר",
+"localizations": {}
+},
+"BDB11059": {
+"content_id": "BDB11059",
+"reference_id": "BDB11059",
+"index_reference": "כְּלַל",
+"localizations": {}
+},
+"BDB11063": {
+"content_id": "BDB11063",
+"reference_id": "BDB11063",
+"index_reference": "כְּנַשׁ",
+"localizations": {}
+},
+"BDB11065": {
+"content_id": "BDB11065",
+"reference_id": "BDB11065",
+"index_reference": "כסא",
+"localizations": {}
+},
+"BDB11070": {
+"content_id": "BDB11070",
+"reference_id": "BDB11070",
+"index_reference": "כְּפַחת",
+"localizations": {}
+},
+"BDB11076": {
+"content_id": "BDB11076",
+"reference_id": "BDB11076",
+"index_reference": "כרר",
+"localizations": {}
+},
+"BDB11079": {
+"content_id": "BDB11079",
+"reference_id": "BDB11079",
+"index_reference": "כְּתַב",
+"localizations": {}
+},
+"BDB11083": {
+"content_id": "BDB11083",
+"reference_id": "BDB11083",
+"index_reference": "ל",
+"localizations": {}
+},
+"BDB11084": {
+"content_id": "BDB11084",
+"reference_id": "BDB11084",
+"index_reference": "לָא",
+"localizations": {}
+},
+"BDB11085": {
+"content_id": "BDB11085",
+"reference_id": "BDB11085",
+"index_reference": "לאך",
+"localizations": {}
+},
+"BDB11087": {
+"content_id": "BDB11087",
+"reference_id": "BDB11087",
+"index_reference": "לְבַב",
+"localizations": {}
+},
+"BDB11089": {
+"content_id": "BDB11089",
+"reference_id": "BDB11089",
+"index_reference": "לְבֵשׁ",
+"localizations": {}
+},
+"BDB11092": {
+"content_id": "BDB11092",
+"reference_id": "BDB11092",
+"index_reference": "i לָהֵן",
+"localizations": {}
+},
+"BDB11093": {
+"content_id": "BDB11093",
+"reference_id": "BDB11093",
+"index_reference": "ii לָהֵן",
+"localizations": {}
+},
+"BDB11100": {
+"content_id": "BDB11100",
+"reference_id": "BDB11100",
+"index_reference": "מָא",
+"localizations": {}
+},
+"BDB11101": {
+"content_id": "BDB11101",
+"reference_id": "BDB11101",
+"index_reference": "מְאָה",
+"localizations": {}
+},
+"BDB11111": {
+"content_id": "BDB11111",
+"reference_id": "BDB11111",
+"index_reference": "מָה",
+"localizations": {}
+},
+"BDB11114": {
+"content_id": "BDB11114",
+"reference_id": "BDB11114",
+"index_reference": "מְחָא",
+"localizations": {}
+},
+"BDB11116": {
+"content_id": "BDB11116",
+"reference_id": "BDB11116",
+"index_reference": "מְטָא",
+"localizations": {}
+},
+"BDB11119": {
+"content_id": "BDB11119",
+"reference_id": "BDB11119",
+"index_reference": "מְלָא",
+"localizations": {}
+},
+"BDB11121": {
+"content_id": "BDB11121",
+"reference_id": "BDB11121",
+"index_reference": "מְלַח",
+"localizations": {}
+},
+"BDB11123": {
+"content_id": "BDB11123",
+"reference_id": "BDB11123",
+"index_reference": "i מלך",
+"localizations": {}
+},
+"BDB11127": {
+"content_id": "BDB11127",
+"reference_id": "BDB11127",
+"index_reference": "ii מלך",
+"localizations": {}
+},
+"BDB11129": {
+"content_id": "BDB11129",
+"reference_id": "BDB11129",
+"index_reference": "מְלַל",
+"localizations": {}
+},
+"BDB11130": {
+"content_id": "BDB11130",
+"reference_id": "BDB11130",
+"index_reference": "מִלָּה",
+"localizations": {}
+},
+"BDB11131": {
+"content_id": "BDB11131",
+"reference_id": "BDB11131",
+"index_reference": "מַן",
+"localizations": {}
+},
+"BDB11132": {
+"content_id": "BDB11132",
+"reference_id": "BDB11132",
+"index_reference": "מִן",
+"localizations": {}
+},
+"BDB11133": {
+"content_id": "BDB11133",
+"reference_id": "BDB11133",
+"index_reference": "מְנֵא",
+"localizations": {}
+},
+"BDB11135": {
+"content_id": "BDB11135",
+"reference_id": "BDB11135",
+"index_reference": "מַנְדַּע",
+"localizations": {}
+},
+"BDB11136": {
+"content_id": "BDB11136",
+"reference_id": "BDB11136",
+"index_reference": "מְנָה",
+"localizations": {}
+},
+"BDB11139": {
+"content_id": "BDB11139",
+"reference_id": "BDB11139",
+"index_reference": "מִנְחָה",
+"localizations": {}
+},
+"BDB11155": {
+"content_id": "BDB11155",
+"reference_id": "BDB11155",
+"index_reference": "נבא",
+"localizations": {}
+},
+"BDB11161": {
+"content_id": "BDB11161",
+"reference_id": "BDB11161",
+"index_reference": "נְגַד",
+"localizations": {}
+},
+"BDB11162": {
+"content_id": "BDB11162",
+"reference_id": "BDB11162",
+"index_reference": "נֶ֫גֶד",
+"localizations": {}
+},
+"BDB11163": {
+"content_id": "BDB11163",
+"reference_id": "BDB11163",
+"index_reference": "נ֫גַהּ",
+"localizations": {}
+},
+"BDB11164": {
+"content_id": "BDB11164",
+"reference_id": "BDB11164",
+"index_reference": "נְדַב",
+"localizations": {}
+},
+"BDB11165": {
+"content_id": "BDB11165",
+"reference_id": "BDB11165",
+"index_reference": "נִדְבָּךְ",
+"localizations": {}
+},
+"BDB11166": {
+"content_id": "BDB11166",
+"reference_id": "BDB11166",
+"index_reference": "נְדַד",
+"localizations": {}
+},
+"BDB11171": {
+"content_id": "BDB11171",
+"reference_id": "BDB11171",
+"index_reference": "נוּד",
+"localizations": {}
+},
+"BDB11174": {
+"content_id": "BDB11174",
+"reference_id": "BDB11174",
+"index_reference": "נְזַק",
+"localizations": {}
+},
+"BDB11176": {
+"content_id": "BDB11176",
+"reference_id": "BDB11176",
+"index_reference": "נְחֵת",
+"localizations": {}
+},
+"BDB11177": {
+"content_id": "BDB11177",
+"reference_id": "BDB11177",
+"index_reference": "נְטַל",
+"localizations": {}
+},
+"BDB11178": {
+"content_id": "BDB11178",
+"reference_id": "BDB11178",
+"index_reference": "נְטַר",
+"localizations": {}
+},
+"BDB11182": {
+"content_id": "BDB11182",
+"reference_id": "BDB11182",
+"index_reference": "נְסַךְ",
+"localizations": {}
+},
+"BDB11183": {
+"content_id": "BDB11183",
+"reference_id": "BDB11183",
+"index_reference": "נְסַךְ",
+"localizations": {}
+},
+"BDB11186": {
+"content_id": "BDB11186",
+"reference_id": "BDB11186",
+"index_reference": "נְפַל",
+"localizations": {}
+},
+"BDB11187": {
+"content_id": "BDB11187",
+"reference_id": "BDB11187",
+"index_reference": "נְכַּק",
+"localizations": {}
+},
+"BDB11190": {
+"content_id": "BDB11190",
+"reference_id": "BDB11190",
+"index_reference": "נְצַח",
+"localizations": {}
+},
+"BDB11191": {
+"content_id": "BDB11191",
+"reference_id": "BDB11191",
+"index_reference": "נְצַל",
+"localizations": {}
+},
+"BDB11193": {
+"content_id": "BDB11193",
+"reference_id": "BDB11193",
+"index_reference": "נְקַשׁ",
+"localizations": {}
+},
+"BDB11194": {
+"content_id": "BDB11194",
+"reference_id": "BDB11194",
+"index_reference": "נְשָא",
+"localizations": {}
+},
+"BDB11200": {
+"content_id": "BDB11200",
+"reference_id": "BDB11200",
+"index_reference": "נְתַן",
+"localizations": {}
+},
+"BDB11205": {
+"content_id": "BDB11205",
+"reference_id": "BDB11205",
+"index_reference": "סְבַל",
+"localizations": {}
+},
+"BDB11206": {
+"content_id": "BDB11206",
+"reference_id": "BDB11206",
+"index_reference": "סְבַר",
+"localizations": {}
+},
+"BDB11211": {
+"content_id": "BDB11211",
+"reference_id": "BDB11211",
+"index_reference": "סוּף",
+"localizations": {}
+},
+"BDB11214": {
+"content_id": "BDB11214",
+"reference_id": "BDB11214",
+"index_reference": "סְילק",
+"localizations": {}
+},
+"BDB11215": {
+"content_id": "BDB11215",
+"reference_id": "BDB11215",
+"index_reference": "סְעַד",
+"localizations": {}
+},
+"BDB11216": {
+"content_id": "BDB11216",
+"reference_id": "BDB11216",
+"index_reference": "סְפַר",
+"localizations": {}
+},
+"BDB11220": {
+"content_id": "BDB11220",
+"reference_id": "BDB11220",
+"index_reference": "i סְתַר",
+"localizations": {}
+},
+"BDB11221": {
+"content_id": "BDB11221",
+"reference_id": "BDB11221",
+"index_reference": "ii סְתַר",
+"localizations": {}
+},
+"BDB11223": {
+"content_id": "BDB11223",
+"reference_id": "BDB11223",
+"index_reference": "עֲבַד",
+"localizations": {}
+},
+"BDB11229": {
+"content_id": "BDB11229",
+"reference_id": "BDB11229",
+"index_reference": "עַד",
+"localizations": {}
+},
+"BDB11230": {
+"content_id": "BDB11230",
+"reference_id": "BDB11230",
+"index_reference": "עֲדָה",
+"localizations": {}
+},
+"BDB11231": {
+"content_id": "BDB11231",
+"reference_id": "BDB11231",
+"index_reference": "עַד",
+"localizations": {}
+},
+"BDB11233": {
+"content_id": "BDB11233",
+"reference_id": "BDB11233",
+"index_reference": "עוֺד",
+"localizations": {}
+},
+"BDB11245": {
+"content_id": "BDB11245",
+"reference_id": "BDB11245",
+"index_reference": "עלה",
+"localizations": {}
+},
+"BDB11250": {
+"content_id": "BDB11250",
+"reference_id": "BDB11250",
+"index_reference": "עַל",
+"localizations": {}
+},
+"BDB11253": {
+"content_id": "BDB11253",
+"reference_id": "BDB11253",
+"index_reference": "עֲלַל",
+"localizations": {}
+},
+"BDB11260": {
+"content_id": "BDB11260",
+"reference_id": "BDB11260",
+"index_reference": "עִם",
+"localizations": {}
+},
+"BDB11263": {
+"content_id": "BDB11263",
+"reference_id": "BDB11263",
+"index_reference": "i עֲנָה",
+"localizations": {}
+},
+"BDB11266": {
+"content_id": "BDB11266",
+"reference_id": "BDB11266",
+"index_reference": "ii ענה",
+"localizations": {}
+},
+"BDB11268": {
+"content_id": "BDB11268",
+"reference_id": "BDB11268",
+"index_reference": "ענז",
+"localizations": {}
+},
+"BDB11274": {
+"content_id": "BDB11274",
+"reference_id": "BDB11274",
+"index_reference": "עפא",
+"localizations": {}
+},
+"BDB11276": {
+"content_id": "BDB11276",
+"reference_id": "BDB11276",
+"index_reference": "עֲצַב",
+"localizations": {}
+},
+"BDB11277": {
+"content_id": "BDB11277",
+"reference_id": "BDB11277",
+"index_reference": "עִקַּר",
+"localizations": {}
+},
+"BDB11280": {
+"content_id": "BDB11280",
+"reference_id": "BDB11280",
+"index_reference": "עֲרַב",
+"localizations": {}
+},
+"BDB11283": {
+"content_id": "BDB11283",
+"reference_id": "BDB11283",
+"index_reference": "ערר",
+"localizations": {}
+},
+"BDB11286": {
+"content_id": "BDB11286",
+"reference_id": "BDB11286",
+"index_reference": "עֲשַר",
+"localizations": {}
+},
+"BDB11296": {
+"content_id": "BDB11296",
+"reference_id": "BDB11296",
+"index_reference": "פְּלַג",
+"localizations": {}
+},
+"BDB11299": {
+"content_id": "BDB11299",
+"reference_id": "BDB11299",
+"index_reference": "פְּלַח",
+"localizations": {}
+},
+"BDB11304": {
+"content_id": "BDB11304",
+"reference_id": "BDB11304",
+"index_reference": "פסס",
+"localizations": {}
+},
+"BDB11307": {
+"content_id": "BDB11307",
+"reference_id": "BDB11307",
+"index_reference": "פְּרַס",
+"localizations": {}
+},
+"BDB11308": {
+"content_id": "BDB11308",
+"reference_id": "BDB11308",
+"index_reference": "פְּרֵס",
+"localizations": {}
+},
+"BDB11311": {
+"content_id": "BDB11311",
+"reference_id": "BDB11311",
+"index_reference": "פְּרַק",
+"localizations": {}
+},
+"BDB11312": {
+"content_id": "BDB11312",
+"reference_id": "BDB11312",
+"index_reference": "פְּרַשׁ",
+"localizations": {}
+},
+"BDB11314": {
+"content_id": "BDB11314",
+"reference_id": "BDB11314",
+"index_reference": "פְּשַׁר",
+"localizations": {}
+},
+"BDB11317": {
+"content_id": "BDB11317",
+"reference_id": "BDB11317",
+"index_reference": "פְּתַח",
+"localizations": {}
+},
+"BDB11318": {
+"content_id": "BDB11318",
+"reference_id": "BDB11318",
+"index_reference": "פתא",
+"localizations": {}
+},
+"BDB11321": {
+"content_id": "BDB11321",
+"reference_id": "BDB11321",
+"index_reference": "צְבָא",
+"localizations": {}
+},
+"BDB11323": {
+"content_id": "BDB11323",
+"reference_id": "BDB11323",
+"index_reference": "i צְבַע",
+"localizations": {}
+},
+"BDB11324": {
+"content_id": "BDB11324",
+"reference_id": "BDB11324",
+"index_reference": "ii צבע",
+"localizations": {}
+},
+"BDB11330": {
+"content_id": "BDB11330",
+"reference_id": "BDB11330",
+"index_reference": "צְלָא",
+"localizations": {}
+},
+"BDB11331": {
+"content_id": "BDB11331",
+"reference_id": "BDB11331",
+"index_reference": "צְלַח",
+"localizations": {}
+},
+"BDB11336": {
+"content_id": "BDB11336",
+"reference_id": "BDB11336",
+"index_reference": "קבל",
+"localizations": {}
+},
+"BDB11342": {
+"content_id": "BDB11342",
+"reference_id": "BDB11342",
+"index_reference": "קדשׁ",
+"localizations": {}
+},
+"BDB11344": {
+"content_id": "BDB11344",
+"reference_id": "BDB11344",
+"index_reference": "קול",
+"localizations": {}
+},
+"BDB11346": {
+"content_id": "BDB11346",
+"reference_id": "BDB11346",
+"index_reference": "קוּם",
+"localizations": {}
+},
+"BDB11349": {
+"content_id": "BDB11349",
+"reference_id": "BDB11349",
+"index_reference": "קְטַל",
+"localizations": {}
+},
+"BDB11350": {
+"content_id": "BDB11350",
+"reference_id": "BDB11350",
+"index_reference": "קטר",
+"localizations": {}
+},
+"BDB11355": {
+"content_id": "BDB11355",
+"reference_id": "BDB11355",
+"index_reference": "קָל",
+"localizations": {}
+},
+"BDB11356": {
+"content_id": "BDB11356",
+"reference_id": "BDB11356",
+"index_reference": "קְנָא",
+"localizations": {}
+},
+"BDB11357": {
+"content_id": "BDB11357",
+"reference_id": "BDB11357",
+"index_reference": "קצא",
+"localizations": {}
+},
+"BDB11359": {
+"content_id": "BDB11359",
+"reference_id": "BDB11359",
+"index_reference": "קְצַף",
+"localizations": {}
+},
+"BDB11362": {
+"content_id": "BDB11362",
+"reference_id": "BDB11362",
+"index_reference": "קְרָא",
+"localizations": {}
+},
+"BDB11363": {
+"content_id": "BDB11363",
+"reference_id": "BDB11363",
+"index_reference": "קְרֵב",
+"localizations": {}
+},
+"BDB11371": {
+"content_id": "BDB11371",
+"reference_id": "BDB11371",
+"index_reference": "ראה",
+"localizations": {}
+},
+"BDB11374": {
+"content_id": "BDB11374",
+"reference_id": "BDB11374",
+"index_reference": "רבב",
+"localizations": {}
+},
+"BDB11378": {
+"content_id": "BDB11378",
+"reference_id": "BDB11378",
+"index_reference": "רְבָה",
+"localizations": {}
+},
+"BDB11380": {
+"content_id": "BDB11380",
+"reference_id": "BDB11380",
+"index_reference": "רבע",
+"localizations": {}
+},
+"BDB11384": {
+"content_id": "BDB11384",
+"reference_id": "BDB11384",
+"index_reference": "רְגַז",
+"localizations": {}
+},
+"BDB11387": {
+"content_id": "BDB11387",
+"reference_id": "BDB11387",
+"index_reference": "רְגַשׁ",
+"localizations": {}
+},
+"BDB11389": {
+"content_id": "BDB11389",
+"reference_id": "BDB11389",
+"index_reference": "רוח",
+"localizations": {}
+},
+"BDB11392": {
+"content_id": "BDB11392",
+"reference_id": "BDB11392",
+"index_reference": "רוּם",
+"localizations": {}
+},
+"BDB11397": {
+"content_id": "BDB11397",
+"reference_id": "BDB11397",
+"index_reference": "רְחַץ",
+"localizations": {}
+},
+"BDB11398": {
+"content_id": "BDB11398",
+"reference_id": "BDB11398",
+"index_reference": "רחק",
+"localizations": {}
+},
+"BDB11401": {
+"content_id": "BDB11401",
+"reference_id": "BDB11401",
+"index_reference": "רְמָא",
+"localizations": {}
+},
+"BDB11402": {
+"content_id": "BDB11402",
+"reference_id": "BDB11402",
+"index_reference": "רעה",
+"localizations": {}
+},
+"BDB11406": {
+"content_id": "BDB11406",
+"reference_id": "BDB11406",
+"index_reference": "רְעַע",
+"localizations": {}
+},
+"BDB11407": {
+"content_id": "BDB11407",
+"reference_id": "BDB11407",
+"index_reference": "רְפַס",
+"localizations": {}
+},
+"BDB11408": {
+"content_id": "BDB11408",
+"reference_id": "BDB11408",
+"index_reference": "רְשַׁם",
+"localizations": {}
+},
+"BDB11411": {
+"content_id": "BDB11411",
+"reference_id": "BDB11411",
+"index_reference": "שְגָא",
+"localizations": {}
+},
+"BDB11414": {
+"content_id": "BDB11414",
+"reference_id": "BDB11414",
+"index_reference": "שוּם",
+"localizations": {}
+},
+"BDB11415": {
+"content_id": "BDB11415",
+"reference_id": "BDB11415",
+"index_reference": "שְטַר",
+"localizations": {}
+},
+"BDB11416": {
+"content_id": "BDB11416",
+"reference_id": "BDB11416",
+"index_reference": "שִיב",
+"localizations": {}
+},
+"BDB11417": {
+"content_id": "BDB11417",
+"reference_id": "BDB11417",
+"index_reference": "שְכַל",
+"localizations": {}
+},
+"BDB11419": {
+"content_id": "BDB11419",
+"reference_id": "BDB11419",
+"index_reference": "שְנָא",
+"localizations": {}
+},
+"BDB11422": {
+"content_id": "BDB11422",
+"reference_id": "BDB11422",
+"index_reference": "שְׁאֵל",
+"localizations": {}
+},
+"BDB11425": {
+"content_id": "BDB11425",
+"reference_id": "BDB11425",
+"index_reference": "שׁבב",
+"localizations": {}
+},
+"BDB11427": {
+"content_id": "BDB11427",
+"reference_id": "BDB11427",
+"index_reference": "שְׁבַךְ",
+"localizations": {}
+},
+"BDB11429": {
+"content_id": "BDB11429",
+"reference_id": "BDB11429",
+"index_reference": "שְׁבַע",
+"localizations": {}
+},
+"BDB11430": {
+"content_id": "BDB11430",
+"reference_id": "BDB11430",
+"index_reference": "שְׁבַק",
+"localizations": {}
+},
+"BDB11431": {
+"content_id": "BDB11431",
+"reference_id": "BDB11431",
+"index_reference": "שְׁבַשׁ",
+"localizations": {}
+},
+"BDB11433": {
+"content_id": "BDB11433",
+"reference_id": "BDB11433",
+"index_reference": "שְׁדַר",
+"localizations": {}
+},
+"BDB11436": {
+"content_id": "BDB11436",
+"reference_id": "BDB11436",
+"index_reference": "שׁדת",
+"localizations": {}
+},
+"BDB11439": {
+"content_id": "BDB11439",
+"reference_id": "BDB11439",
+"index_reference": "i שְׁוָה",
+"localizations": {}
+},
+"BDB11440": {
+"content_id": "BDB11440",
+"reference_id": "BDB11440",
+"index_reference": "ii שְׁוָה",
+"localizations": {}
+},
+"BDB11441": {
+"content_id": "BDB11441",
+"reference_id": "BDB11441",
+"index_reference": "שׁוק",
+"localizations": {}
+},
+"BDB11445": {
+"content_id": "BDB11445",
+"reference_id": "BDB11445",
+"index_reference": "שְׁחַת",
+"localizations": {}
+},
+"BDB11447": {
+"content_id": "BDB11447",
+"reference_id": "BDB11447",
+"index_reference": "שׁיציא",
+"localizations": {}
+},
+"BDB11448": {
+"content_id": "BDB11448",
+"reference_id": "BDB11448",
+"index_reference": "שׁכב",
+"localizations": {}
+},
+"BDB11450": {
+"content_id": "BDB11450",
+"reference_id": "BDB11450",
+"index_reference": "שְׁכַח",
+"localizations": {}
+},
+"BDB11452": {
+"content_id": "BDB11452",
+"reference_id": "BDB11452",
+"index_reference": "שְׁכֵן",
+"localizations": {}
+},
+"BDB11454": {
+"content_id": "BDB11454",
+"reference_id": "BDB11454",
+"index_reference": "שׁלה",
+"localizations": {}
+},
+"BDB11458": {
+"content_id": "BDB11458",
+"reference_id": "BDB11458",
+"index_reference": "שְׁלַח",
+"localizations": {}
+},
+"BDB11459": {
+"content_id": "BDB11459",
+"reference_id": "BDB11459",
+"index_reference": "שְׁלֵט",
+"localizations": {}
+},
+"BDB11462": {
+"content_id": "BDB11462",
+"reference_id": "BDB11462",
+"index_reference": "שְׁלֵם",
+"localizations": {}
+},
+"BDB11465": {
+"content_id": "BDB11465",
+"reference_id": "BDB11465",
+"index_reference": "שְׁמַד",
+"localizations": {}
+},
+"BDB11467": {
+"content_id": "BDB11467",
+"reference_id": "BDB11467",
+"index_reference": "שְׁמַם",
+"localizations": {}
+},
+"BDB11468": {
+"content_id": "BDB11468",
+"reference_id": "BDB11468",
+"index_reference": "שְׁמַע",
+"localizations": {}
+},
+"BDB11470": {
+"content_id": "BDB11470",
+"reference_id": "BDB11470",
+"index_reference": "i שׁמשׁ",
+"localizations": {}
+},
+"BDB11472": {
+"content_id": "BDB11472",
+"reference_id": "BDB11472",
+"index_reference": "ii שְׁמַשׁ",
+"localizations": {}
+},
+"BDB11474": {
+"content_id": "BDB11474",
+"reference_id": "BDB11474",
+"index_reference": "שֵׁן",
+"localizations": {}
+},
+"BDB11475": {
+"content_id": "BDB11475",
+"reference_id": "BDB11475",
+"index_reference": "שְׁנָא",
+"localizations": {}
+},
+"BDB11477": {
+"content_id": "BDB11477",
+"reference_id": "BDB11477",
+"index_reference": "שׁנן",
+"localizations": {}
+},
+"BDB11480": {
+"content_id": "BDB11480",
+"reference_id": "BDB11480",
+"index_reference": "שְׁפַט",
+"localizations": {}
+},
+"BDB11481": {
+"content_id": "BDB11481",
+"reference_id": "BDB11481",
+"index_reference": "שַׁפִּיר",
+"localizations": {}
+},
+"BDB11482": {
+"content_id": "BDB11482",
+"reference_id": "BDB11482",
+"index_reference": "שְׁפֵל",
+"localizations": {}
+},
+"BDB11484": {
+"content_id": "BDB11484",
+"reference_id": "BDB11484",
+"index_reference": "שְׁפַר",
+"localizations": {}
+},
+"BDB11488": {
+"content_id": "BDB11488",
+"reference_id": "BDB11488",
+"index_reference": "שְׁרָא",
+"localizations": {}
+},
+"BDB11489": {
+"content_id": "BDB11489",
+"reference_id": "BDB11489",
+"index_reference": "שׁרק",
+"localizations": {}
+},
+"BDB11491": {
+"content_id": "BDB11491",
+"reference_id": "BDB11491",
+"index_reference": "שֹׁ֫רֶשׁ",
+"localizations": {}
+},
+"BDB11494": {
+"content_id": "BDB11494",
+"reference_id": "BDB11494",
+"index_reference": "שְׁתָה",
+"localizations": {}
+},
+"BDB11496": {
+"content_id": "BDB11496",
+"reference_id": "BDB11496",
+"index_reference": "שִׁתִּין",
+"localizations": {}
+},
+"BDB11499": {
+"content_id": "BDB11499",
+"reference_id": "BDB11499",
+"index_reference": "תְּבַר",
+"localizations": {}
+},
+"BDB11501": {
+"content_id": "BDB11501",
+"reference_id": "BDB11501",
+"index_reference": "תּוּב",
+"localizations": {}
+},
+"BDB11502": {
+"content_id": "BDB11502",
+"reference_id": "BDB11502",
+"index_reference": "תְּוַהּ",
+"localizations": {}
+},
+"BDB11506": {
+"content_id": "BDB11506",
+"reference_id": "BDB11506",
+"index_reference": "תְּלָת",
+"localizations": {}
+},
+"BDB11511": {
+"content_id": "BDB11511",
+"reference_id": "BDB11511",
+"index_reference": "תַּמָּה",
+"localizations": {}
+},
+"BDB11513": {
+"content_id": "BDB11513",
+"reference_id": "BDB11513",
+"index_reference": "תנא",
+"localizations": {}
+},
+"BDB11519": {
+"content_id": "BDB11519",
+"reference_id": "BDB11519",
+"index_reference": "תְּוַל",
+"localizations": {}
+},
+"BDB11521": {
+"content_id": "BDB11521",
+"reference_id": "BDB11521",
+"index_reference": "תְּקַן",
+"localizations": {}
+},
+"BDB11522": {
+"content_id": "BDB11522",
+"reference_id": "BDB11522",
+"index_reference": "תְּקֵף",
+"localizations": {}
+}
+}
+}
