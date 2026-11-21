@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "BDBAramaicLexicon",
-"date_created": "2026-09-18",
+"date_created": "2026-11-20",
 "language": "eng",
 "localizations": [],
 "order": "alphabetical",
@@ -42,7 +42,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T08:00:19.328750"
+"dateCreated": "2026-11-20T19:04:16.294146"
 },
 "idAuthorities": {
 "aquifer": {
@@ -56,7 +56,7 @@
 "primary": {
 "aquifer": {
 "BDBAramaicLexicon": {
-"timestamp": "2026-09-18T08:00:19.328750"
+"timestamp": "2026-11-20T19:04:16.294146"
 }
 }
 },
@@ -88,7 +88,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 265008,
+"size": 265260,
 "scope": {
 "א": [
 "אָב",
@@ -137,7 +137,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 132217,
+"size": 132265,
 "scope": {
 "ח": [
 "חַד",
@@ -170,7 +170,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 111363,
+"size": 111429,
 "scope": {
 "ב": [
 "בְּ",
@@ -198,7 +198,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 52695,
+"size": 52739,
 "scope": {
 "ג": [
 "גאה",
@@ -215,7 +215,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 131362,
+"size": 131382,
 "scope": {
 "ד": [
 "דְַד",
@@ -264,7 +264,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 76519,
+"size": 76563,
 "scope": {
 "ה": [
 "הֲ",
@@ -303,7 +303,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 59817,
+"size": 59839,
 "scope": {
 "פ": [
 "פְעֵם",
@@ -347,7 +347,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 77846,
+"size": 78000,
 "scope": {
 "כ": [
 "כְּ",
@@ -365,7 +365,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 63575,
+"size": 63619,
 "scope": {
 "ל": [
 "ל",
@@ -380,7 +380,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 127886,
+"size": 128280,
 "scope": {
 "מ": [
 "מָא",
@@ -450,7 +450,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 169853,
+"size": 169977,
 "scope": {
 "ע": [
 "עֲבַד",
@@ -489,7 +489,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 95033,
+"size": 95097,
 "scope": {
 "ק": [
 "קבל",
@@ -509,7 +509,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 88293,
+"size": 88337,
 "scope": {
 "ר": [
 "ראה",
@@ -532,7 +532,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 233403,
+"size": 233613,
 "scope": {
 "ש": [
 "שְגָא",
@@ -583,7 +583,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 53675,
+"size": 53763,
 "scope": {
 "ת": [
 "תְּבַר",
@@ -601,6 +601,279 @@
 "json/000.content.json": {
 "mimeType": "text/json",
 "size": 1619100
+},
+"alignments/json/01.alignment.json": {
+"mimeType": "text/json",
+"size": 1628126,
+"scope": {
+"GEN": []
+}
+},
+"alignments/json/02.alignment.json": {
+"mimeType": "text/json",
+"size": 1219162,
+"scope": {
+"EXO": []
+}
+},
+"alignments/json/03.alignment.json": {
+"mimeType": "text/json",
+"size": 848630,
+"scope": {
+"LEV": []
+}
+},
+"alignments/json/04.alignment.json": {
+"mimeType": "text/json",
+"size": 1143858,
+"scope": {
+"NUM": []
+}
+},
+"alignments/json/05.alignment.json": {
+"mimeType": "text/json",
+"size": 1095822,
+"scope": {
+"DEU": []
+}
+},
+"alignments/json/06.alignment.json": {
+"mimeType": "text/json",
+"size": 699736,
+"scope": {
+"JOS": []
+}
+},
+"alignments/json/07.alignment.json": {
+"mimeType": "text/json",
+"size": 708820,
+"scope": {
+"JDG": []
+}
+},
+"alignments/json/08.alignment.json": {
+"mimeType": "text/json",
+"size": 103788,
+"scope": {
+"RUT": []
+}
+},
+"alignments/json/09.alignment.json": {
+"mimeType": "text/json",
+"size": 927922,
+"scope": {
+"1SA": []
+}
+},
+"alignments/json/10.alignment.json": {
+"mimeType": "text/json",
+"size": 802044,
+"scope": {
+"2SA": []
+}
+},
+"alignments/json/11.alignment.json": {
+"mimeType": "text/json",
+"size": 1003050,
+"scope": {
+"1KI": []
+}
+},
+"alignments/json/12.alignment.json": {
+"mimeType": "text/json",
+"size": 898038,
+"scope": {
+"2KI": []
+}
+},
+"alignments/json/13.alignment.json": {
+"mimeType": "text/json",
+"size": 712802,
+"scope": {
+"1CH": []
+}
+},
+"alignments/json/14.alignment.json": {
+"mimeType": "text/json",
+"size": 938076,
+"scope": {
+"2CH": []
+}
+},
+"alignments/json/15.alignment.json": {
+"mimeType": "text/json",
+"size": 372628,
+"scope": {
+"EZR": []
+}
+},
+"alignments/json/16.alignment.json": {
+"mimeType": "text/json",
+"size": 396414,
+"scope": {
+"NEH": []
+}
+},
+"alignments/json/17.alignment.json": {
+"mimeType": "text/json",
+"size": 216218,
+"scope": {
+"EST": []
+}
+},
+"alignments/json/18.alignment.json": {
+"mimeType": "text/json",
+"size": 640004,
+"scope": {
+"JOB": []
+}
+},
+"alignments/json/19.alignment.json": {
+"mimeType": "text/json",
+"size": 1376270,
+"scope": {
+"PSA": []
+}
+},
+"alignments/json/20.alignment.json": {
+"mimeType": "text/json",
+"size": 378548,
+"scope": {
+"PRO": []
+}
+},
+"alignments/json/21.alignment.json": {
+"mimeType": "text/json",
+"size": 257324,
+"scope": {
+"ECC": []
+}
+},
+"alignments/json/22.alignment.json": {
+"mimeType": "text/json",
+"size": 85356,
+"scope": {
+"SNG": []
+}
+},
+"alignments/json/23.alignment.json": {
+"mimeType": "text/json",
+"size": 1134060,
+"scope": {
+"ISA": []
+}
+},
+"alignments/json/24.alignment.json": {
+"mimeType": "text/json",
+"size": 1679766,
+"scope": {
+"JER": []
+}
+},
+"alignments/json/25.alignment.json": {
+"mimeType": "text/json",
+"size": 116870,
+"scope": {
+"LAM": []
+}
+},
+"alignments/json/26.alignment.json": {
+"mimeType": "text/json",
+"size": 1393466,
+"scope": {
+"EZK": []
+}
+},
+"alignments/json/27.alignment.json": {
+"mimeType": "text/json",
+"size": 706932,
+"scope": {
+"DAN": []
+}
+},
+"alignments/json/28.alignment.json": {
+"mimeType": "text/json",
+"size": 156314,
+"scope": {
+"HOS": []
+}
+},
+"alignments/json/29.alignment.json": {
+"mimeType": "text/json",
+"size": 65524,
+"scope": {
+"JOL": []
+}
+},
+"alignments/json/30.alignment.json": {
+"mimeType": "text/json",
+"size": 141868,
+"scope": {
+"AMO": []
+}
+},
+"alignments/json/31.alignment.json": {
+"mimeType": "text/json",
+"size": 19800,
+"scope": {
+"OBA": []
+}
+},
+"alignments/json/32.alignment.json": {
+"mimeType": "text/json",
+"size": 52076,
+"scope": {
+"JON": []
+}
+},
+"alignments/json/33.alignment.json": {
+"mimeType": "text/json",
+"size": 95806,
+"scope": {
+"MIC": []
+}
+},
+"alignments/json/34.alignment.json": {
+"mimeType": "text/json",
+"size": 28012,
+"scope": {
+"NAM": []
+}
+},
+"alignments/json/35.alignment.json": {
+"mimeType": "text/json",
+"size": 42456,
+"scope": {
+"HAB": []
+}
+},
+"alignments/json/36.alignment.json": {
+"mimeType": "text/json",
+"size": 53280,
+"scope": {
+"ZEP": []
+}
+},
+"alignments/json/37.alignment.json": {
+"mimeType": "text/json",
+"size": 42798,
+"scope": {
+"HAG": []
+}
+},
+"alignments/json/38.alignment.json": {
+"mimeType": "text/json",
+"size": 250948,
+"scope": {
+"ZEC": []
+}
+},
+"alignments/json/39.alignment.json": {
+"mimeType": "text/json",
+"size": 67898,
+"scope": {
+"MAL": []
+}
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
@@ -632,7 +905,7 @@
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 27597
+"size": 27589
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
@@ -640,15 +913,15 @@
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 20005
+"size": 20003
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 18085
+"size": 18089
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 32446
+"size": 32436
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
@@ -660,7 +933,7 @@
 },
 "md/000.content.md": {
 "mimeType": "text/markdown",
-"size": 77681
+"size": 77651
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
@@ -672,11 +945,11 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 40001
+"size": 39989
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 19350
+"size": 19304
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
@@ -688,7 +961,7 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 15002
+"size": 15000
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
